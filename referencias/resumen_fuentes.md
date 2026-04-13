@@ -18,14 +18,14 @@
 | `Allergic rhinitis_ Clinical manifestations...pdf` | Ellis AK, Corren J | Clínica, epidemiología, diagnóstico, clasificación ARIA |
 | `Patient education_ Allergic rhinitis (Beyond the Basics).pdf` | deShazo RD, Kemp SF | Educación al paciente: técnica spray nasal, embarazo, niños, combos intranasales, ipratropium, cromoglicato |
 
-## Referencia principal no descargable (acceso online)
+## ARIA-EAACI 2024-2025 — PDFs descargados
 
-**ARIA-EAACI Guidelines 2024-2025 Revision: Part I — Intranasal Treatments**
-- Autores: Sousa-Pinto B, Bousquet J, Vieira RJ, et al.
-- Journal: Allergy. 2026;81(4):954-976
-- DOI: 10.1111/all.70131
-- PMID: 41324154
-- URL: https://pubmed.ncbi.nlm.nih.gov/41324154/
+| Archivo | Autores | Contenido |
+|---------|---------|-----------|
+| `Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACIGuidelines—2024–2025 Revision Part I—Guidelines onIntranasal Treatments.pdf` | Sousa-Pinto B, Bousquet J, Vieira RJ, et al. | Parte I: 11 recomendaciones sobre tratamientos intranasales (INCS, INAH, INAH+INCS, descongestionantes). Allergy 2026;81(4):954-976. DOI: 10.1111/all.70131 |
+| `Allergy - 2026 - Vieira - Allergic Rhinitis and Its Impact on Asthma  ARIA ‐EAACI Guidelines 2024 2025 Revision  Part II.pdf` | Vieira RJ, Sousa-Pinto B, Bousquet J, et al. | Parte II: 11 recomendaciones sobre tratamientos orales y oculares (OAH, LTRA, OcAH, estabilizadores mastocitos). Allergy 2026;0:1-24. DOI: 10.1111/all.70305 |
+
+**Archivo combinado:** `aria_2024_2025.md` (ambas partes en un solo documento markdown estructurado)
 
 ## Datos extraídos de la web
 

@@ -1,4 +1,4 @@
-# Rinoconjuntivitis alérgica — Evidencia UpToDate
+	# Rinoconjuntivitis alérgica — Evidencia UpToDate
 
 **Documento de soporte para la microsesión clínica del 16 de abril de 2026**
 
