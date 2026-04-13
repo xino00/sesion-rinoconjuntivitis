@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rinoconjuntivitis Alérgica — Dr. Juan Arenas</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/theme/white.css">
+<style>
+  :root {
+    --r-heading-color: #1a5276;
+    --r-link-color: #2e86c1;
+    --r-link-color-hover: #1a5276;
+    --r-main-font-size: 32px;
+    --r-heading-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --r-main-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .reveal { font-size: var(--r-main-font-size); }
+  .reveal h1 { font-size: 2em; color: #1a5276; }
+  .reveal h2 { font-size: 1.4em; color: #1a5276; border-bottom: 3px solid #27ae60; padding-bottom: 0.3em; margin-bottom: 0.6em; }
+  .reveal h3 { font-size: 1.1em; color: #27ae60; margin-bottom: 0.4em; }
+  .reveal .subtitle { font-size: 0.7em; color: #5d6d7e; margin-top: 0.5em; }
+  .reveal .author { font-size: 0.8em; color: #2c3e50; margin-top: 1em; }
+  .reveal .date { font-size: 0.6em; color: #7f8c8d; }
+
+  /* Tables */
+  .reveal table { border-collapse: collapse; width: 100%; font-size: 0.75em; margin: 0.5em 0; }
+  .reveal table th { background: #1a5276; color: white; padding: 0.5em 0.7em; text-align: left; font-weight: 600; }
+  .reveal table td { padding: 0.4em 0.7em; border-bottom: 1px solid #d5dbdb; }
+  .reveal table tr:nth-child(even) { background: #f4f6f7; }
+  .reveal table.rx th { background: #27ae60; }
+  .reveal table.rx-urg th { background: #e74c3c; }
+  .reveal table.errors th { background: #e67e22; }
+
+  /* Boxes */
+  .box { border-radius: 8px; padding: 0.6em 1em; margin: 0.4em 0; font-size: 0.85em; }
+  .box-green { background: #eafaf1; border-left: 5px solid #27ae60; }
+  .box-blue { background: #eaf2f8; border-left: 5px solid #2e86c1; }
+  .box-red { background: #fdedec; border-left: 5px solid #e74c3c; }
+  .box-orange { background: #fef5e7; border-left: 5px solid #e67e22; }
+  .box-gray { background: #f2f3f4; border-left: 5px solid #5d6d7e; }
+
+  /* Badge */
+  .badge { display: inline-block; padding: 0.15em 0.5em; border-radius: 4px; font-size: 0.65em; font-weight: 700; vertical-align: middle; margin-left: 0.3em; }
+  .badge-green { background: #27ae60; color: white; }
+  .badge-blue { background: #2e86c1; color: white; }
+  .badge-red { background: #e74c3c; color: white; }
+
+  /* Key point */
+  .key { font-weight: 700; color: #1a5276; }
+  .warn { color: #e74c3c; font-weight: 700; }
+
+  /* Calendar table */
+  .reveal table.cal th { background: #27ae60; font-size: 0.9em; }
+  .reveal table.cal td { text-align: center; padding: 0.3em 0.5em; }
+  .reveal table.cal td.active { background: #27ae60; color: white; font-weight: 700; border-radius: 4px; }
+  .reveal table.cal td.peak { background: #e74c3c; color: white; font-weight: 700; border-radius: 4px; }
+  .reveal table.cal td.now { border: 3px solid #e74c3c; font-weight: 700; }
+
+  /* ARIA grid */
+  .aria-grid { display: grid; grid-template-columns: auto 1fr 1fr; gap: 0; font-size: 0.8em; margin: 0.5em auto; max-width: 90%; }
+  .aria-grid div { padding: 0.5em 0.7em; border: 1px solid #d5dbdb; }
+  .aria-header { background: #1a5276; color: white; font-weight: 700; text-align: center; }
+  .aria-row-header { background: #eaf2f8; font-weight: 700; color: #1a5276; }
+  .aria-cell { text-align: center; }
+  .aria-cell-green { background: #eafaf1; }
+  .aria-cell-yellow { background: #fef9e7; }
+  .aria-cell-orange { background: #fef5e7; }
+
+  /* Columns */
+  .cols { display: flex; gap: 1.5em; align-items: flex-start; }
+  .cols > div { flex: 1; }
+
+  /* Step indicators */
+  .step-label { display: inline-block; background: #1a5276; color: white; padding: 0.2em 0.6em; border-radius: 4px; font-weight: 700; font-size: 0.8em; margin-bottom: 0.3em; }
+  .step-label.urg { background: #e74c3c; }
+
+  /* Slide numbers */
+  .reveal .slide-number { font-size: 14px; color: #7f8c8d; }
+
+  /* Footer */
+  .footer-ref { position: absolute; bottom: 1em; left: 1em; font-size: 0.4em; color: #aab7b8; }
+
+  /* Small text */
+  .small { font-size: 0.7em; color: #5d6d7e; }
+  .smaller { font-size: 0.6em; color: #7f8c8d; }
+
+  /* Lists */
+  .reveal ul { margin-left: 0.5em; }
+  .reveal li { margin-bottom: 0.3em; font-size: 0.85em; }
+
+  /* Portada */
+  .portada-flower { font-size: 3em; margin-bottom: 0.3em; }
+</style>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+
+<!-- ============ SLIDE 1: PORTADA ============ -->
+<section>
+  <div class="portada-flower">&#127800;</div>
+  <h1>Con la primavera llega la...<br><span style="color:#27ae60">Rinoconjuntivitis alérgica</span></h1>
+  <div class="author">Dr. Juan Arenas Montiel</div>
+  <div class="subtitle">R1 Medicina Familiar y Comunitaria &mdash; HUFJD</div>
+  <div class="date">Sesiones Clínicas MFyC &middot; 16 de abril de 2026</div>
+</section>
+
+<!-- ============ SLIDE 2: DEFINICIÓN ============ -->
+<section>
+  <h2>¿De qué hablamos?</h2>
+  <div class="fragment box box-blue">
+    Inflamación <strong>IgE-mediada</strong> de la mucosa nasal y conjuntival tras exposición a aeroalérgenos
+  </div>
+  <div class="fragment" style="margin-top:0.5em;">
+    <table>
+      <tr><th colspan="2">Impacto</th></tr>
+      <tr><td><strong>Prevalencia</strong></td><td>10-30% adultos &middot; >6,6 millones en España (+42% en 5 años)</td></tr>
+      <tr><td><strong>Conjuntivitis</strong></td><td>Hasta <strong>60%</strong> asocian conjuntivitis alérgica concomitante</td></tr>
+      <tr><td><strong>Consultas</strong></td><td><strong>2,5%</strong> de TODAS las consultas médicas</td></tr>
+      <tr><td><strong>Calidad de vida</strong></td><td>Altera sueño, rendimiento escolar/laboral, concentración</td></tr>
+    </table>
+  </div>
+  <div class="fragment box box-red" style="margin-top:0.5em;">
+    <strong>"Una vía, una enfermedad"</strong>: 80% asmáticos tienen rinitis &middot; Hasta 40% de rinitis &rarr; asma
+  </div>
+  <div class="footer-ref">Ellis AK. UpToDate, Feb 2026 &middot; SEORL-CCC &middot; ISAAC Study</div>
+</section>
+
+<!-- ============ SLIDE 3: PÓLENES MADRID ============ -->
+<section>
+  <h2>Pólenes en Madrid: ¿por qué ahora?</h2>
+  <table class="cal">
+    <tr>
+      <th>Polen</th><th>Ene</th><th>Feb</th><th>Mar</th><th>Abr</th><th>May</th><th>Jun</th>
+    </tr>
+    <tr class="fragment">
+      <td style="text-align:left;font-weight:700;">Cupresáceas</td>
+      <td class="active">&#9632;</td><td class="active">&#9632;</td><td class="active">&#9632;</td><td></td><td></td><td></td>
+    </tr>
+    <tr class="fragment">
+      <td style="text-align:left;font-weight:700;">Plátano</td>
+      <td></td><td></td><td class="active">&#9632;</td><td class="active">&#9632;</td><td></td><td></td>
+    </tr>
+    <tr class="fragment">
+      <td style="text-align:left;font-weight:700;color:#e74c3c;">Gramíneas</td>
+      <td></td><td></td><td></td><td class="peak">&#9632;</td><td class="peak">&#9632;</td><td class="peak">&#9632;</td>
+    </tr>
+    <tr class="fragment">
+      <td style="text-align:left;font-weight:700;">Olivo</td>
+      <td></td><td></td><td></td><td></td><td class="active">&#9632;</td><td class="active">&#9632;</td>
+    </tr>
+    <tr class="fragment">
+      <td style="text-align:left;font-weight:700;">Plantago</td>
+      <td></td><td></td><td></td><td class="active">&#9632;</td><td class="active">&#9632;</td><td class="active">&#9632;</td>
+    </tr>
+  </table>
+  <div class="fragment box box-red" style="margin-top:0.8em;font-size:0.95em;">
+    &#128205; <strong>Estamos en ABRIL</strong> &rarr; empieza la temporada de <strong>gramíneas</strong> (1ª causa de polinosis en el centro peninsular)
+  </div>
+  <div class="footer-ref">Red PALINOCAM &mdash; Comunidad de Madrid &middot; Campaña 15 ene &ndash; 30 jun 2026</div>
+</section>
+
+<!-- ============ SLIDE 4: CLÍNICA ============ -->
+<section>
+  <h2>Clínica: más allá del estornudo</h2>
+  <div class="cols">
+    <div class="fragment">
+      <h3>&#128067; Nasales</h3>
+      <ul>
+        <li>Rinorrea acuosa bilateral</li>
+        <li>Estornudos en salvas</li>
+        <li><strong>Prurito nasal</strong></li>
+        <li>Obstrucción nasal</li>
+        <li>Goteo posnasal</li>
+      </ul>
+    </div>
+    <div class="fragment">
+      <h3>&#128065; Oculares</h3>
+      <ul>
+        <li><strong>Prurito ocular</strong> <span class="badge badge-green">+ específico</span></li>
+        <li>Lagrimeo</li>
+        <li>Hiperemia conjuntival</li>
+        <li>Edema palpebral</li>
+      </ul>
+    </div>
+    <div class="fragment">
+      <h3>&#128164; Otros</h3>
+      <ul>
+        <li>Prurito palatino/ótico</li>
+        <li>Tos, fatiga</li>
+        <li>Alt. del sueño</li>
+        <li>Ojeras, Dennie-Morgan</li>
+      </ul>
+    </div>
+  </div>
+  <div class="fragment box box-red" style="margin-top:0.6em;">
+    <strong>&#9888; Banderas rojas</strong> &mdash; NO es "solo alergia": rinorrea <strong>unilateral/purulenta</strong> &middot; epistaxis persistente &middot; obstrucción unilateral fija &middot; anosmia progresiva
+  </div>
+  <div class="footer-ref">Ellis AK. UpToDate, Feb 2026 &middot; Wise SK. ICAR-AR 2023</div>
+</section>
+
+<!-- ============ SLIDE 5: CLASIFICACIÓN ARIA ============ -->
+<section>
+  <h2>Clasificación ARIA: la brújula del tratamiento</h2>
+  <div class="aria-grid fragment">
+    <div class="aria-header"></div>
+    <div class="aria-header">LEVE</div>
+    <div class="aria-header">MODERADA-GRAVE</div>
+    <div class="aria-row-header"><strong>INTERMITENTE</strong><br><span class="small">&lt;4 días/sem<br>O &lt;4 semanas</span></div>
+    <div class="aria-cell aria-cell-green"><strong>INCS o AH oral</strong><br><span class="badge badge-blue">Grade 2B</span></div>
+    <div class="aria-cell aria-cell-yellow"><strong>INCS</strong><br><span class="badge badge-blue">Grade 1A</span></div>
+    <div class="aria-row-header"><strong>PERSISTENTE</strong><br><span class="small">&gt;4 días/sem<br>Y &gt;4 semanas</span></div>
+    <div class="aria-cell aria-cell-yellow"><strong>INCS</strong><br><span class="badge badge-blue">Grade 1A</span></div>
+    <div class="aria-cell aria-cell-orange"><strong>INCS &plusmn; combo</strong><br><span class="badge badge-blue">Grade 1A</span></div>
+  </div>
+  <div class="fragment" style="margin-top:0.8em;">
+    <div class="cols" style="font-size:0.75em;">
+      <div class="box box-green"><strong>Leve:</strong> sueño normal, actividad normal, sin síntomas molestos</div>
+      <div class="box box-orange"><strong>Mod-grave (&#8805;1):</strong> altera sueño, actividad diaria/laboral, síntomas molestos</div>
+    </div>
+  </div>
+  <div class="fragment smaller" style="margin-top:0.5em;">INCS = corticoide intranasal &middot; AH = antihistamínico</div>
+  <div class="footer-ref">ARIA-EAACI 2024-2025 &middot; Ellis AK. UpToDate, Mar 2026</div>
+</section>
+
+<!-- ============ SLIDE 6: TRATAMIENTO ESCALONADO ============ -->
+<section>
+  <h2>Tratamiento escalonado</h2>
+  <div class="fragment box box-gray">
+    <strong>PARA TODOS</strong> <span class="badge badge-blue">Grade 2C</span>: evitación alergénica + <strong>lavados nasales con SSF</strong> (usar 10-15 min antes del spray)
+  </div>
+  <div class="fragment" style="margin-top:0.4em;">
+    <span class="step-label">LEVE / INTERMITENTE</span> <span class="badge badge-blue">Grade 2B</span>
+    <div class="box box-green">
+      <strong>INCS</strong> = tratamiento preferido incluso aquí<br>
+      <span class="small">Exposición predecible &rarr; iniciar <strong>2 días antes</strong> &middot; Estacional &rarr; iniciar <strong>&#8805;1 semana antes</strong></span><br>
+      <span class="small">Alternativa: AH oral 2ª gen (bilastina, cetirizina, loratadina) &mdash; NO alivian congestión</span>
+    </div>
+  </div>
+  <div class="fragment" style="margin-top:0.4em;">
+    <span class="step-label">MODERADA-GRAVE / PERSISTENTE</span> <span class="badge badge-blue">Grade 1A</span>
+    <div class="box box-blue">
+      <strong>INCS a dosis plena</strong> &rarr; reducir al controlar &middot; Efecto pleno: días a semanas<br>
+      <span class="small">Si no responde &rarr; <strong>añadir AH intranasal</strong> (Grade 2B), NO otro AH oral</span><br>
+      <span class="small">Combo INCS + AH nasal (Dymista&reg;): onset <strong>15-30 min</strong></span>
+    </div>
+  </div>
+  <div class="fragment" style="margin-top:0.4em;">
+    <span class="step-label urg">URGENCIAS</span>
+    <div class="box box-red">
+      Prednisona 30-40 mg &times; 3-5 d (NO rutina) &middot; Descongestionante nasal <strong>m&aacute;x 3-5 d</strong> &middot; <strong>Iniciar INCS desde urgencias</strong><br>
+      <span class="small">&#9888; Montelukast: SOLO si asma &middot; <strong class="warn">FDA boxed warning</strong> neuropsiquiátrico</span>
+    </div>
+  </div>
+  <div class="footer-ref">Ellis AK. UpToDate, Mar 2026 &middot; ICAR-AR 2023, Table I.C.7.b</div>
+</section>
+
+<!-- ============ SLIDE 7A: RECETA AP LEVE ============ -->
+<section>
+  <h2>Receta al alta: AP &mdash; Leve intermitente</h2>
+  <table class="rx">
+    <tr><th>Fármaco</th><th>Posología</th></tr>
+    <tr class="fragment"><td><strong>Bilastina 20 mg</strong></td><td>1 comp/24h en ayunas</td></tr>
+    <tr class="fragment"><td>Suero salino nasal</td><td>Lavados 2-3 veces/día</td></tr>
+    <tr class="fragment"><td>&plusmn; Olopatadina colirio 0,1%</td><td>1 gota/ojo/12h <span class="small">(si conjuntivitis)</span></td></tr>
+  </table>
+  <div class="fragment box box-green" style="margin-top:0.8em;">
+    <strong>Alternativas AH oral:</strong> cetirizina 10 mg/24h &middot; loratadina 10 mg/24h &middot; fexofenadina 180 mg/24h
+  </div>
+  <div class="fragment box box-blue" style="margin-top:0.5em;">
+    &#128197; <strong>Revisión en 2-4 semanas</strong> &rarr; si persiste, escalar a INCS (mometasona)
+  </div>
+  <div class="footer-ref">Ellis AK. UpToDate, Mar 2026</div>
+</section>
+
+<!-- ============ SLIDE 7B: RECETA AP MODERADA ============ -->
+<section>
+  <h2>Receta al alta: AP &mdash; Moderada-grave</h2>
+  <table class="rx">
+    <tr><th>Fármaco</th><th>Posología</th></tr>
+    <tr class="fragment"><td><strong>Mometasona furoato</strong> spray 50 mcg</td><td><strong>2 pulv/fosa nasal/24h</strong> (mañana)</td></tr>
+    <tr class="fragment"><td>Suero salino nasal</td><td>Lavados <strong>10-15 min ANTES</strong> del spray</td></tr>
+    <tr class="fragment"><td>&plusmn; Bilastina 20 mg</td><td>1 comp/24h <span class="small">(si componente ocular)</span></td></tr>
+    <tr class="fragment"><td>&plusmn; Olopatadina colirio 0,1%</td><td>1 gota/ojo/12h <span class="small">(si conjuntivitis)</span></td></tr>
+  </table>
+  <div class="fragment box box-orange" style="margin-top:0.5em;">
+    <strong>&#128161; Técnica del spray:</strong> cabeza recta &middot; boquilla LEJOS del tabique &middot; NO inspirar fuerte<br>
+    <span class="small">Estacional: iniciar &#8805;1 semana antes de la temporada</span>
+  </div>
+  <div class="fragment box box-blue" style="margin-top:0.3em;">
+    &#128197; Revisión <strong>2-4 semanas</strong> &rarr; si sin control: <strong>Dymista&reg;</strong> (azelastina/fluticasona) 1 pulv/fosa/12h<br>
+    <span class="small">Sin control tras 1-2 meses con INCS + otro agente &rarr; <strong>derivar Alergología</strong></span>
+  </div>
+  <div class="footer-ref">Ellis AK. UpToDate, Mar 2026 &middot; ARIA-EAACI 2024-2025</div>
+</section>
+
+<!-- ============ SLIDE 7C: RECETA URGENCIAS ============ -->
+<section>
+  <h2>Receta al alta: Urgencias &mdash; Exacerbación</h2>
+  <table class="rx-urg">
+    <tr><th>Fármaco</th><th>Posología</th></tr>
+    <tr class="fragment"><td><strong class="warn">Prednisona 30 mg</strong></td><td>1 comp/24h &times; <strong>5 días</strong> (no prolongar)</td></tr>
+    <tr class="fragment"><td>&plusmn; Oximetazolina 0,05% spray</td><td>1 pulv/fosa/12h &times; <strong>3-5 días máx</strong> <span class="small">(puente)</span></td></tr>
+    <tr class="fragment"><td><strong>Mometasona furoato</strong> spray</td><td>2 pulv/fosa/24h &mdash; <strong>iniciar desde URG, mantener</strong></td></tr>
+    <tr class="fragment"><td>Bilastina 20 mg</td><td>1 comp/24h</td></tr>
+    <tr class="fragment"><td>Suero salino nasal</td><td>Lavados 2-3 veces/día</td></tr>
+    <tr class="fragment"><td>&plusmn; Olopatadina colirio</td><td>1 gota/ojo/12h <span class="small">(si ojos afectos)</span></td></tr>
+  </table>
+  <div class="fragment box box-red" style="margin-top:0.5em;">
+    <strong>Recomendaciones al paciente:</strong> ventanas cerradas &middot; gafas de sol &middot; ducharse al llegar a casa &middot; no tender ropa fuera
+  </div>
+  <div class="fragment box box-blue" style="margin-top:0.3em;">
+    &#128197; <strong>Cita AP en 2-4 semanas</strong> &middot; &#9888; Preguntar siempre por asma: <em>"¿nota pitos o le cuesta respirar?"</em>
+  </div>
+  <div class="footer-ref">Ellis AK. UpToDate, Mar 2026 &middot; ICAR-AR 2023</div>
+</section>
+
+<!-- ============ SLIDE 8: CIERRE ============ -->
+<section>
+  <h2>Para terminar</h2>
+  <div class="cols" style="align-items:stretch;">
+    <div class="fragment">
+      <h3>Derivar a Alergología si:</h3>
+      <ul>
+        <li>Sin control tras <strong>1-2 meses</strong> de INCS + otro agente</li>
+        <li>Sinusitis/otitis recurrente</li>
+        <li>Candidato a <strong>inmunoterapia</strong></li>
+      </ul>
+      <div class="box box-green small">La inmunoterapia es el <strong>único tratamiento que modifica la historia natural</strong> y puede prevenir asma en niños</div>
+    </div>
+    <div class="fragment">
+      <h3>Errores frecuentes</h3>
+      <table class="errors">
+        <tr><th>Error</th><th>Consecuencia</th></tr>
+        <tr><td>Solo AH oral (no INCS)</td><td>Infratratamiento</td></tr>
+        <tr><td>Descongestionante &gt;3-5 d</td><td>R. medicamentosa</td></tr>
+        <tr><td>AH 1ª gen</td><td>Sedación</td></tr>
+        <tr><td>Montelukast sin asma</td><td>Boxed warning</td></tr>
+        <tr><td>No preguntar por asma</td><td>40% &rarr; asma</td></tr>
+      </table>
+    </div>
+  </div>
+  <div class="fragment" style="margin-top:0.6em;">
+    <div class="box box-blue" style="font-size:0.9em;text-align:center;">
+      &#127919; <strong>INCS = 1ª línea</strong> &middot; Si falla &rarr; <strong>AH intranasal</strong> &middot; En URG: <strong>prednisona + INCS + cita AP</strong> &middot; <strong>Siempre preguntar por asma</strong>
+    </div>
+  </div>
+  <div class="footer-ref">
+    1. Ellis AK. UpToDate, Mar 2026 &middot; 2. Wise SK. ICAR-AR 2023 &middot; 3. ARIA-EAACI 2024-2025 &middot; 4. PALINOCAM
+  </div>
+</section>
+
+<!-- ============ SLIDE EXTRA: REFERENCIAS ============ -->
+<section>
+  <h2>Referencias</h2>
+  <ol style="font-size:0.6em;line-height:1.6;">
+    <li>Ellis AK, Corren J. <em>Pharmacotherapy of allergic rhinitis.</em> UpToDate. Mar 2026.</li>
+    <li>Ellis AK, Corren J. <em>Allergic rhinitis: Clinical manifestations, epidemiology, pathogenesis, and diagnosis.</em> UpToDate. Feb 2026.</li>
+    <li>Wise SK et al. <em>International consensus statement on allergy and rhinology: Allergic rhinitis &mdash; 2023.</em> Int Forum Allergy Rhinol. 2023;13:293-859.</li>
+    <li>Sousa-Pinto B, Bousquet J et al. <em>ARIA-EAACI Guidelines 2024-2025: Part I &mdash; Intranasal Treatments.</em> Allergy. 2026;81(4):954-976.</li>
+    <li>Mullol J et al. <em>Rinitis: concepto, clasificación, diagnóstico y tratamiento.</em> Acta Otorrinolaringol Esp. 2020. PMC7151823.</li>
+    <li>Red Palinológica de la Comunidad de Madrid (PALINOCAM). comunidad.madrid/servicios/salud/polen</li>
+  </ol>
+  <div style="margin-top:1em;font-size:0.8em;color:#27ae60;font-weight:700;">¡Gracias!</div>
+</section>
+
+</div><!-- /slides -->
+</div><!-- /reveal -->
+
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+<script>
+Reveal.initialize({
+  hash: true,
+  slideNumber: 'c/t',
+  transition: 'slide',
+  transitionSpeed: 'default',
+  width: 1280,
+  height: 720,
+  margin: 0.08,
+  center: true,
+  progress: true,
+  controls: true
+});
+</script>
+</body>
+</html>
