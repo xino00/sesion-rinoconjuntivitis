@@ -10,6 +10,14 @@
 | `neumologia_actualizacion_rinitis.pdf` | Neumología y Salud | Actualización en rinitis |
 | `ARIA_guia_bolsillo_2014.pdf` | SMORLCCC / ARIA México 2014 | Guía de bolsillo ARIA: clasificación y tratamiento escalonado |
 
+## UpToDate — Artículos descargados (carpeta `uptodate references/`)
+
+| Archivo | Autores | Contenido |
+|---------|---------|-----------|
+| `Pharmacotherapy of allergic rhinitis - UpToDate.pdf` | Ellis AK, Corren J | Farmacoterapia completa: INCS, AH, combos, evidencia por grado |
+| `Allergic rhinitis_ Clinical manifestations...pdf` | Ellis AK, Corren J | Clínica, epidemiología, diagnóstico, clasificación ARIA |
+| `Patient education_ Allergic rhinitis (Beyond the Basics).pdf` | deShazo RD, Kemp SF | Educación al paciente: técnica spray nasal, embarazo, niños, Ryaltris, ipratropium, cromolyn |
+
 ## Referencia principal no descargable (acceso online)
 
 **ARIA-EAACI Guidelines 2024-2025 Revision: Part I — Intranasal Treatments**
