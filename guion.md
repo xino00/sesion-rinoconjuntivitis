@@ -141,7 +141,7 @@
   - Combinación INCS + AH nasal (azelastina/fluticasona): onset 15-30 min
   - Alternativa: **mometasona/olopatadina** — misma eficacia, aprobado ≥6 años
   - En ensayo con ~3400 pac.: resolución casi completa 12% combo vs 9% fluticasona vs 4% placebo
-- Montelukast: **SOLO si asma concomitante** ⚠️ FDA boxed warning (efectos neuropsiquiátricos)
+- Montelukast: **SOLO si asma concomitante** ⚠️ Alerta máxima de seguridad FDA (efectos neuropsiquiátricos)
 - **Ipratropium nasal**: opción específica para rinorrea acuosa profusa que no responde a INCS (no actúa sobre estornudos ni congestión)
 
 **EN URGENCIAS — Exacerbación aguda severa**
@@ -226,7 +226,7 @@ Revisión en 2-4 semanas → si persiste, escalar a INCS
 |---|----|
 | Descongestivos sin límite | Rinitis medicamentosa |
 | AH 1ª gen (dexclorfeniramina) | Sedación, accidentes |
-| Montelukast sin asma | Boxed warning neuropsiq. |
+| Montelukast sin asma | Alerta máxima FDA neuropsiq. |
 | No preguntar por asma | 40% rinitis → asma |
 
 ### Llévate esto a casa

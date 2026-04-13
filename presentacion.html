@@ -91,6 +91,24 @@
 
   /* Portada */
   .portada-flower { font-size: 3em; margin-bottom: 0.3em; }
+
+  /* Algoritmo terapéutico */
+  .algo { font-size: 0.62em; }
+  .algo-node { border-radius: 8px; padding: 0.4em 0.7em; text-align: center; font-weight: 600; position: relative; }
+  .algo-start { background: #1a5276; color: white; font-size: 1.1em; padding: 0.5em 1.2em; }
+  .algo-base { background: #d5f5e3; border: 2px solid #27ae60; color: #1a5276; }
+  .algo-classify { background: #fef9e7; border: 2px solid #f1c40f; color: #1a5276; font-size: 1.05em; }
+  .algo-leve { background: #eafaf1; border: 2px solid #27ae60; }
+  .algo-mod { background: #eaf2f8; border: 2px solid #2e86c1; }
+  .algo-urg { background: #fdedec; border: 2px solid #e74c3c; }
+  .algo-deriv { background: #fef5e7; border: 2px solid #e67e22; }
+  .algo-ok { background: #d5f5e3; border: 2px solid #27ae60; font-weight: 700; color: #27ae60; }
+  .algo-arrow { text-align: center; font-size: 1.4em; color: #5d6d7e; line-height: 1; padding: 0.1em 0; }
+  .algo-arrow-side { font-size: 1.2em; color: #5d6d7e; align-self: center; }
+  .algo-decision { background: #f4f6f7; border: 2px dashed #5d6d7e; border-radius: 50% / 40%; padding: 0.3em 0.8em; text-align: center; font-style: italic; }
+  .algo-row { display: flex; justify-content: center; gap: 1.5em; align-items: flex-start; }
+  .algo-col { display: flex; flex-direction: column; align-items: center; gap: 0.15em; flex: 1; max-width: 32%; }
+  .algo-col-wide { max-width: 42%; }
 </style>
 </head>
 <body>
@@ -254,10 +272,95 @@
       <strong>Prednisona 30-40 mg</strong> &times; 3-5 d (NO rutina) &middot; Descongestivo nasal <strong>máx 3-5 d</strong> como puente<br>
       <strong>Iniciar INCS desde urgencias</strong> &rarr; mantener crónico &middot; <strong>Alta con plan + cita AP 2-4 sem</strong><br>
       Descartar asma: <em>"¿nota pitos o le cuesta respirar?"</em><br>
-      &#9888; Montelukast: SOLO si asma &middot; <strong class="warn">FDA boxed warning</strong> neuropsiq.
+      &#9888; Montelukast: SOLO si asma &middot; <strong class="warn">Alerta máxima FDA</strong> neuropsiq.
     </div>
   </div>
   <div class="footer-ref">Ellis AK. UpToDate, Mar 2026 &middot; ICAR-AR 2023, Table I.C.7.b</div>
+</section>
+
+<!-- ============ SLIDE 6B: ALGORITMO TERAPÉUTICO ============ -->
+<section>
+  <h2 style="margin-bottom:0.2em;">Algoritmo terapéutico</h2>
+  <div class="algo">
+
+    <!-- Fila 1: Diagnóstico -->
+    <div class="algo-arrow" style="margin-bottom:0.1em;">
+      <div class="algo-node algo-start">Rinoconjuntivitis alérgica confirmada</div>
+    </div>
+    <div class="algo-arrow">&darr;</div>
+
+    <!-- Fila 2: Base para todos -->
+    <div style="text-align:center;">
+      <div class="algo-node algo-base" style="display:inline-block;"><strong>PARA TODOS:</strong> evitación alergénica + lavados nasales con SSF <span class="badge badge-blue" style="font-size:0.85em;">2C</span></div>
+    </div>
+    <div class="algo-arrow">&darr;</div>
+
+    <!-- Fila 3: Clasificar -->
+    <div style="text-align:center;">
+      <div class="algo-node algo-classify" style="display:inline-block;">Clasificar seg&uacute;n <strong>ARIA</strong> (duraci&oacute;n + gravedad)</div>
+    </div>
+    <div class="algo-arrow">&swarr;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&darr;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&searr;</div>
+
+    <!-- Fila 4: Tres columnas -->
+    <div class="algo-row">
+
+      <!-- Columna LEVE -->
+      <div class="algo-col">
+        <div class="algo-node algo-leve" style="width:100%;"><strong>Leve / Intermitente</strong> <span class="badge badge-blue" style="font-size:0.8em;">2B</span><br>INCS o AH oral 2&ordf; gen</div>
+        <div class="algo-arrow">&darr;</div>
+        <div class="algo-node algo-decision">&iquest;Control en 2-4 sem?</div>
+        <div style="display:flex;gap:1em;width:100%;justify-content:center;">
+          <div style="text-align:center;flex:1;">
+            <div class="algo-arrow" style="color:#27ae60;">&darr; S&iacute;</div>
+            <div class="algo-node algo-ok" style="font-size:0.9em;">Mantener</div>
+          </div>
+          <div style="text-align:center;flex:1;">
+            <div class="algo-arrow" style="color:#e74c3c;">&darr; No</div>
+            <div class="algo-node algo-mod" style="font-size:0.9em;">Escalar a<br><strong>INCS</strong></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Columna MOD-GRAVE -->
+      <div class="algo-col algo-col-wide">
+        <div class="algo-node algo-mod" style="width:100%;"><strong>Moderada-grave / Persistente</strong> <span class="badge badge-blue" style="font-size:0.8em;">1A</span><br>INCS a dosis plena</div>
+        <div class="algo-arrow">&darr;</div>
+        <div class="algo-node algo-decision">&iquest;Control en 2-4 sem?</div>
+        <div style="display:flex;gap:1em;width:100%;justify-content:center;">
+          <div style="text-align:center;flex:1;">
+            <div class="algo-arrow" style="color:#27ae60;">&darr; S&iacute;</div>
+            <div class="algo-node algo-ok" style="font-size:0.9em;">Reducir dosis</div>
+          </div>
+          <div style="text-align:center;flex:1;">
+            <div class="algo-arrow" style="color:#e74c3c;">&darr; No</div>
+            <div class="algo-node algo-mod" style="font-size:0.85em;">+ <strong>AH intranasal</strong><br><span style="font-size:0.85em;">azelastina/fluticasona<br>mometasona/olopatadina</span></div>
+          </div>
+        </div>
+        <div class="algo-arrow">&darr; <span style="font-size:0.7em;color:#e74c3c;">sin control 1-2 meses</span></div>
+        <div class="algo-node algo-deriv" style="width:80%;"><strong>Derivar Alergolog&iacute;a</strong><br><span style="font-size:0.85em;">Valorar inmunoterapia</span></div>
+      </div>
+
+      <!-- Columna URGENCIAS -->
+      <div class="algo-col">
+        <div class="algo-node algo-urg" style="width:100%;"><strong>Urgencias</strong><br>Exacerbaci&oacute;n aguda</div>
+        <div class="algo-arrow">&darr;</div>
+        <div class="algo-node algo-urg" style="width:100%;font-weight:normal;font-size:0.9em;">
+          <strong>Prednisona</strong> 30-40 mg<br>&times; 3-5 d&iacute;as<br>
+          &plusmn; descongestivo nasal<br>(m&aacute;x 3-5 d, puente)
+        </div>
+        <div class="algo-arrow">&darr;</div>
+        <div class="algo-node algo-mod" style="width:100%;font-size:0.9em;">
+          <strong>INCS desde URG</strong><br>+ AH oral + lavados<br>
+          <strong style="color:#e74c3c;">Cita AP 2-4 sem</strong>
+        </div>
+        <div class="algo-arrow" style="margin-top:0.2em;">&uarr;</div>
+        <div class="algo-node" style="background:#fff3cd;border:2px solid #f1c40f;font-size:0.85em;width:100%;">Siempre preguntar:<br><em>&iquest;pitos, disnea?</em><br>&rarr; descartar <strong>asma</strong></div>
+      </div>
+
+    </div><!-- /algo-row -->
+
+  </div><!-- /algo -->
+  <div class="footer-ref">Elaboraci&oacute;n propia basada en: ARIA-EAACI 2024-2025 &middot; Ellis AK. UpToDate, Mar 2026 &middot; ICAR-AR 2023</div>
 </section>
 
 <!-- ============ SLIDE 7A: RECETA AP LEVE ============ -->
@@ -343,7 +446,7 @@
         <tr><td>Solo AH oral (no INCS)</td><td>Infratratamiento</td></tr>
         <tr><td>Descongestionante &gt;3-5 d</td><td>R. medicamentosa</td></tr>
         <tr><td>AH 1ª gen</td><td>Sedación</td></tr>
-        <tr><td>Montelukast sin asma</td><td>Boxed warning</td></tr>
+        <tr><td>Montelukast sin asma</td><td>Alerta máxima FDA</td></tr>
         <tr><td>No preguntar por asma</td><td>40% &rarr; asma</td></tr>
       </table>
     </div>
