@@ -16,7 +16,7 @@
 |---------|---------|-----------|
 | `Pharmacotherapy of allergic rhinitis - UpToDate.pdf` | Ellis AK, Corren J | Farmacoterapia completa: INCS, AH, combos, evidencia por grado |
 | `Allergic rhinitis_ Clinical manifestations...pdf` | Ellis AK, Corren J | Clínica, epidemiología, diagnóstico, clasificación ARIA |
-| `Patient education_ Allergic rhinitis (Beyond the Basics).pdf` | deShazo RD, Kemp SF | Educación al paciente: técnica spray nasal, embarazo, niños, Ryaltris, ipratropium, cromolyn |
+| `Patient education_ Allergic rhinitis (Beyond the Basics).pdf` | deShazo RD, Kemp SF | Educación al paciente: técnica spray nasal, embarazo, niños, combos intranasales, ipratropium, cromoglicato |
 
 ## Referencia principal no descargable (acceso online)
 

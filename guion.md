@@ -138,8 +138,8 @@
   - Truco: ocluir la fosa contraria con un dedo para mejorar distribución
   - Efectos secundarios leves: sequedad nasal, mal sabor, irritación, epistaxis septal (minimizar con técnica correcta)
 - Si no responde → **añadir AH intranasal** (Grade 2B), NO otro AH oral
-  - Combinación INCS + AH nasal (azelastina/fluticasona = Dymista®): onset 15-30 min
-  - Alternativa: **Ryaltris®** (mometasona + olopatadina) — misma eficacia, aprobado ≥6 años
+  - Combinación INCS + AH nasal (azelastina/fluticasona): onset 15-30 min
+  - Alternativa: **mometasona/olopatadina** — misma eficacia, aprobado ≥6 años
   - En ensayo con ~3400 pac.: resolución casi completa 12% combo vs 9% fluticasona vs 4% placebo
 - Montelukast: **SOLO si asma concomitante** ⚠️ FDA boxed warning (efectos neuropsiquiátricos)
 - **Ipratropium nasal**: opción específica para rinorrea acuosa profusa que no responde a INCS (no actúa sobre estornudos ni congestión)
@@ -158,7 +158,7 @@
 - Opción no farmacológica: lavados nasales con SSF · Cromoglicato nasal (seguro)
 - Referencia: deShazo RD. UpToDate, Feb 2026
 
-> **Nota ponente:** "Esta es la diapositiva clave. Tres ideas: Primera — el corticoide intranasal es el tratamiento más eficaz y se recomienda ya desde síntomas leves. Es un error muy frecuente poner solo loratadina cuando un paciente necesita un corticoide nasal. Segunda — si el corticoide nasal solo no es suficiente, UpToDate recomienda añadir un antihistamínico intranasal — no otro antihistamínico oral, que no ha demostrado ventaja añadida clara. Hay dos combos: Dymista (azelastina-fluticasona) y Ryaltris (mometasona-olopatadina), ambas actúan en 15-30 minutos. Tercera — en urgencias, pauta corta de corticoides orales, pero ojo con los descongestivos tópicos: UpToDate advierte de rinitis medicamentosa ya desde 3 días de uso más de una vez al día. Y lo más importante: dar el ALTA con un plan de tratamiento de base y cita en AP. Mención rápida al embarazo: los INCS son seguros — se prefieren fluticasona o mometasona — y como antihistamínico oral, cetirizina o loratadina."
+> **Nota ponente:** "Esta es la diapositiva clave. Tres ideas: Primera — el corticoide intranasal es el tratamiento más eficaz y se recomienda ya desde síntomas leves. Es un error muy frecuente poner solo loratadina cuando un paciente necesita un corticoide nasal. Segunda — si el corticoide nasal solo no es suficiente, UpToDate recomienda añadir un antihistamínico intranasal — no otro antihistamínico oral, que no ha demostrado ventaja añadida clara. Hay dos combos intranasales: azelastina-fluticasona y mometasona-olopatadina, ambas actúan en 15-30 minutos. Tercera — en urgencias, pauta corta de corticoides orales, pero ojo con los descongestivos tópicos: UpToDate advierte de rinitis medicamentosa ya desde 3 días de uso más de una vez al día. Y lo más importante: dar el ALTA con un plan de tratamiento de base y cita en AP. Mención rápida al embarazo: los INCS son seguros — se prefieren fluticasona o mometasona — y como antihistamínico oral, cetirizina o loratadina."
 
 ---
 
@@ -187,7 +187,7 @@ Revisión en 2-4 semanas → si persiste, escalar a INCS
 
 - **Técnica del spray**: cabeza recta, dirigir boquilla LEJOS del tabique, NO inspirar fuerte
 - Estacional: iniciar **≥1 semana antes** de la temporada
-- Revisar en 2-4 semanas → si sin control: cambiar a **Dymista®** (azelastina/fluticasona) o **Ryaltris®** (mometasona/olopatadina) 1 pulv/fosa/12h
+- Revisar en 2-4 semanas → si sin control: cambiar a **azelastina/fluticasona** o **mometasona/olopatadina** combo intranasal 1 pulv/fosa/12h
 - Sin control tras 1-2 meses con INCS + otro agente → **derivar Alergología**
 - **Embarazada**: preferir mometasona o fluticasona como INCS · AH oral: cetirizina o loratadina · Evitar pseudoefedrina (1er trim.) y fenilefrina
 
