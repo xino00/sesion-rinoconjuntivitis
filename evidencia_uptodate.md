@@ -46,7 +46,7 @@
 
 ### Sensibilización creciente ("priming")
 
-- Con la exposición continuada, los umbrales de respuesta disminuyen progresivamente → síntomas más severos con menores concentraciones de alérgeno [Fuente 2, p6].
+- Con la exposición continuada, los umbrales de respuesta disminuyen progresivamente → síntomas más graves con menores concentraciones de alérgeno [Fuente 2, p6].
 - La nariz se vuelve más sensible a estímulos colinomiméticos e irritantes (humo, contaminación, perfumes) [Fuente 2, p6].
 
 ### Afectación de senos paranasales
@@ -98,7 +98,7 @@ Factores propuestos o identificados [Fuente 2, p3-4]:
 
 - Los niños pequeños no se suenan la nariz: en su lugar hacen ruidos de resoplido, sniffing, carraspeo [Fuente 2, p4].
 - Se rascan el paladar con la lengua produciendo un "clic" palatino [Fuente 2, p4].
-- La obstrucción nasal severa puede llevar a ronquido y **apnea obstructiva del sueño** [Fuente 2, p4].
+- La obstrucción nasal grave puede llevar a ronquido y **apnea obstructiva del sueño** [Fuente 2, p4].
 
 ### Calidad de vida y función cognitiva
 
@@ -280,7 +280,7 @@ Recomendada para todos los pacientes, independientemente de la gravedad. Especia
 - Puede ser suficiente como monoterapia en síntomas **leves**.
 - Mecanismo: lavado de alérgenos e irritantes + efecto calmante + mejora de la función ciliar.
 - Realizar **10-15 minutos antes** de los sprays nasales farmacológicos para limpiar la mucosa y mejorar la absorción.
-- Frecuencia: 1-2 veces al día basal, o a demanda. Hasta 2 veces/día si síntomas severos.
+- Frecuencia: 1-2 veces al día basal, o a demanda. Hasta 2 veces/día si síntomas graves.
 - **Preferir irrigación con alto volumen** (>200 mL por lado) cuando sea posible — más eficaz que los sprays nasales de suero salino, aunque menos práctico [Fuente 1, p2].
 - Dispositivos: jeringa de 30 cc, neti pot, botella squeeze [Fuente 1, Table 2].
 - Agua: **destilada, esterilizada o previamente hervida** — NO agua del grifo (riesgo de infección amebiana: meningoencefalitis amebiana primaria) [Fuente 1, p2].
@@ -503,7 +503,7 @@ Recomendada para todos los pacientes, independientemente de la gravedad. Especia
 
 ### 12.10. Corticoides sistémicos orales
 
-- Indicación: **exacerbaciones severas** con obstrucción nasal que impide la penetración del spray, o síntomas severos que impiden dormir o trabajar [Fuente 1, p8].
+- Indicación: **exacerbaciones graves** con obstrucción nasal que impide la penetración del spray, o síntomas graves que impiden dormir o trabajar [Fuente 1, p8].
 - Pauta: **prednisona 30-40 mg/día × 3-5 días** (pauta corta, sin necesidad de descenso gradual) [Fuente 1, p8].
 - **NO de rutina**. No deben administrarse repetidamente ni de forma prolongada [Fuente 1, p8].
 - No se recomienda inyección depot de corticoides (IM) por riesgo de efectos sistémicos prolongados y osteonecrosis [Fuente 1, p8].
@@ -627,7 +627,7 @@ Recomendada para todos los pacientes, independientemente de la gravedad. Especia
 - Indicada en pacientes con sensibilización demostrada (prick test o IgE específica) y que son subóptimamente controlados con terapia estándar [Fuente 1, p10].
 - **Subcutánea** (SCIT): inyecciones semanales de dosis crecientes durante meses, luego mantenimiento mensual. Duración mínima recomendada: **3-5 años** [Fuente 3, p7-8].
 - **Sublingual** (SLIT): comprimido diario sublingual. Disponible para algunos alérgenos. Más cómodo (administración domiciliaria tras la primera dosis en consulta) pero solo disponible para unos pocos alérgenos [Fuente 3, p8].
-- Riesgo de reacción alérgica sistémica severa: **6 de cada 10.000 inyecciones** (SCIT). El paciente debe permanecer en consulta ≥30 minutos post-inyección [Fuente 3, p8].
+- Riesgo de reacción alérgica sistémica grave: **6 de cada 10.000 inyecciones** (SCIT). El paciente debe permanecer en consulta ≥30 minutos post-inyección [Fuente 3, p8].
 - Precaución con **betabloqueantes** (pueden interferir con el tratamiento de una reacción anafiláctica) [Fuente 3, p8].
 - No iniciar durante el embarazo; si ya la recibía, puede continuar sin aumentar dosis [Fuente 3, p10].
 - Generalmente ≥5 años de edad para SCIT y SLIT [Fuente 1, p10].

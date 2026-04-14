@@ -44,7 +44,7 @@
    - Corticoides intranasales: eficacia antiinflamatoria superior. Efecto inicia 6-8h, máximo beneficio a las 2 semanas. Fluticasona y mometasona: mejor perfil de seguridad
    - Descongestivos tópicos: máx 10 días (efecto rebote)
    - Antihistamínicos tópicos (azelastina): inicio rápido (15 min), rescate
-   - Corticoides orales en pauta corta: síntomas persistentes severos
+   - Corticoides orales en pauta corta: síntomas persistentes graves
    - Antileucotrienos (montelukast): principalmente en solapamiento asma-rinitis
 4. Inmunoterapia: "único tratamiento que puede alterar el curso de la enfermedad"
 

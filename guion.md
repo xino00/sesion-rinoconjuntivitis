@@ -49,7 +49,7 @@
 
 *Estamos aquí* → **ABRIL: empieza la temporada de gramíneas** (principal alérgeno en Madrid y centro peninsular)
 
-> **Nota ponente:** "¿Por qué hablamos de esto ahora? Porque estamos en abril. Acabamos de pasar la temporada de cupresáceas y plátano, y ahora empieza la de gramíneas — que es la primera causa de polinosis en el centro de España. El cambio climático está alargando las temporadas polínicas y aumentando los recuentos de polen. Vais a ver muchos de estos pacientes en las próximas semanas."
+> **Nota ponente:** "¿Por qué hablamos de esto ahora? Porque estamos en abril. Acabamos de pasar la temporada de cupresáceas y plátano, y ahora empieza la de gramíneas — que es la primera causa de polinosis en el centro de España. El cambio climático está alargando las temporadas polínicas y aumentando los recuentos de polen. Vais a ver muchos de estos pacientes en las próximas semanas. Por cierto, en polenes.com podéis consultar los niveles de pólenes en tiempo real — es muy útil para aconsejar a los pacientes cuándo extremar precauciones."
 
 ---
 
@@ -142,9 +142,9 @@
   - Alternativa: **mometasona/olopatadina** — misma eficacia, aprobado ≥6 años
   - En ensayo con ~3400 pac.: resolución casi completa 12% combo vs 9% fluticasona vs 4% placebo
 - Montelukast: **SOLO si asma concomitante** ⚠️ Alerta máxima de seguridad FDA (efectos neuropsiquiátricos)
-- **Ipratropium nasal**: opción específica para rinorrea acuosa profusa que no responde a INCS (no actúa sobre estornudos ni congestión)
+- **Ipratropio nasal**: opción específica para rinorrea acuosa profusa que no responde a INCS (no actúa sobre estornudos ni congestión)
 
-**EN URGENCIAS — Exacerbación aguda severa**
+**EN URGENCIAS — Exacerbación aguda grave**
 - **Corticoide oral** en pauta corta: prednisona 30-40 mg/día × 3-5 días (NO de rutina)
 - Descartar asma: *"¿nota pitos o le cuesta respirar?"*
 - Si obstrucción impide que el spray penetre: descongestivo tópico como puente **máx 3-5 días**
@@ -183,7 +183,7 @@ Alt: AH oral    ± colirio AH            ± Oximetazolina
 Sí→Mantener     Sí→↓dosis                   ↓
 No→Escalar→     No→+AH intranasal     Alta: INCS+AH+lavados
                (combo nasal)          Cita AP 2-4 sem
-               ± Ipratropium          → reevaluar tronco
+               ± Ipratropio          → reevaluar tronco
                     ↓
               ¿Control 1-2m?
               Sí→Mantener
@@ -197,6 +197,51 @@ No→Escalar→     No→+AH intranasal     Alta: INCS+AH+lavados
 ```
 
 > **Nota ponente:** "Este algoritmo resume la lógica de UpToDate. Arriba, lo común para todos: lavados nasales — importante hacerlos 10-15 minutos antes del spray para que se absorba mejor. Luego clasificamos por ARIA. A la izquierda, leve: el INCS ya es preferido, el antihistamínico oral es solo alternativa. En el centro, moderada-grave: INCS a dosis plena, y si en 2-4 semanas no hay control, añadimos antihistamínico intranasal — no oral. Si en 1-2 meses sigue sin control, es refractario: descartamos otros diagnósticos y derivamos. A la derecha, urgencias entra lateralmente y reconecta con el seguimiento en AP. Abajo hay notas rápidas sobre embarazo y niños."
+
+---
+
+## Diapositiva 6C — Posología de referencia (apoyo visual, ~15 seg)
+
+**En pantalla:** Tablas con dosis exactas de todos los fármacos del algoritmo, organizadas por grupo terapéutico:
+
+### INCS (corticoides intranasales)
+| Principio activo | Dosis adulto | Dosis pediátrica | Notas |
+|---|---|---|---|
+| **Mometasona furoato** 50 mcg | 2 pulv/fosa/24h | ≥2a: 1 pulv/fosa/24h | Seguro embarazo |
+| **Fluticasona furoato** 27,5 mcg | 2 pulv/fosa/24h | ≥2a: 1-2 pulv/fosa/24h | Mínima biodisponibilidad |
+| **Fluticasona propionato** 50 mcg | 2 pulv/fosa/24h | ≥4a: 1 pulv/fosa/24h | Seguro embarazo |
+| **Budesonida** 32 mcg | 1-2 pulv/fosa/24h | ≥6a: 1 pulv/fosa/24h | Seguro embarazo |
+
+### Combos intranasales (INCS + AH nasal)
+| Principio activo | Dosis | Edad mín |
+|---|---|---|
+| **Azelastina/fluticasona** | 1 pulv/fosa/12h | ≥6 años |
+| **Olopatadina/mometasona** | 2 pulv/fosa/12h | ≥12 años |
+
+### AH orales 2ª gen
+| Principio activo | Dosis adulto |
+|---|---|
+| Bilastina | 20 mg/24h en ayunas |
+| Cetirizina | 10 mg/24h |
+| Loratadina | 10 mg/24h |
+| Fexofenadina | 180 mg/24h |
+| Desloratadina | 5 mg/24h |
+
+### Colirios AH
+| Principio activo | Dosis |
+|---|---|
+| Olopatadina 0,1% / 0,2% | 1 gota/ojo/12h o 24h |
+| Ketotifeno 0,025% | 1 gota/ojo/12h |
+| Azelastina 0,05% | 1 gota/ojo/12h |
+
+### Otros fármacos
+| Fármaco | Dosis | Indicación |
+|---|---|---|
+| Ipratropio nasal 0,03% | 2 pulv/fosa/8-12h | Rinorrea acuosa profusa |
+| Prednisona | 30-40 mg/24h × 3-5 d | Exacerbación aguda (URG) |
+| Oximetazolina 0,05% | 1 pulv/fosa/12h × 3-5 d | Puente si obstrucción impide INCS |
+
+> **Nota ponente:** "Esta diapositiva es de referencia — no la voy a leer entera. Es para que tengáis las dosis exactas de cada fármaco que aparece en el algoritmo. Lo importante: mometasona y fluticasona son los INCS más usados, 2 pulsaciones por fosa al día. Los combos intranasales se dan cada 12 horas. Y recordad: los antihistamínicos orales se dan una vez al día y bilastina se toma en ayunas."
 
 ---
 
@@ -229,7 +274,7 @@ Revisión en 2-4 semanas → si persiste, escalar a INCS
 - Sin control tras 1-2 meses con INCS + otro agente → **derivar Alergología**
 - **Embarazada**: preferir mometasona o fluticasona como INCS · AH oral: cetirizina o loratadina · Evitar pseudoefedrina (1er trim.) y fenilefrina
 
-### C) Desde Urgencias — Exacerbación aguda severa
+### C) Desde Urgencias — Exacerbación aguda grave
 
 | Fármaco | Posología |
 |---------|-----------|
@@ -284,5 +329,4 @@ Revisión en 2-4 semanas → si persiste, escalar a INCS
 3. deShazo RD, Kemp SF. Patient education: Allergic rhinitis (Beyond the Basics). *UpToDate*. Feb 2026. Revisión de literatura hasta Mar 2026.
 4. Wise SK et al. International consensus statement on allergy and rhinology: Allergic rhinitis — 2023. *Int Forum Allergy Rhinol*. 2023;13:293-859. DOI: 10.1002/alr.23090
 5. Sousa-Pinto B, Bousquet J et al. ARIA-EAACI Guidelines 2024-2025: Part I — Intranasal Treatments. *Allergy*. 2026;81(4):954-976. DOI: 10.1111/all.70131
-6. Mullol J et al. Rinitis: concepto, clasificación, diagnóstico y tratamiento. *Acta Otorrinolaringol Esp*. 2020. PMC7151823.
-7. Red Palinológica de la Comunidad de Madrid (PALINOCAM). comunidad.madrid/servicios/salud/polen
+6. Red Palinológica de la Comunidad de Madrid (PALINOCAM). comunidad.madrid/servicios/salud/polen · Niveles interactivos: polenes.com/home
