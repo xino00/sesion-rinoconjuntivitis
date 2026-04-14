@@ -200,51 +200,6 @@ No→Escalar→     No→+AH intranasal     Alta: INCS+AH+lavados
 
 ---
 
-## Diapositiva 6C — Posología de referencia (apoyo visual, ~15 seg)
-
-**En pantalla:** Tablas con dosis exactas de todos los fármacos del algoritmo, organizadas por grupo terapéutico:
-
-### INCS (corticoides intranasales)
-| Principio activo | Dosis adulto | Dosis pediátrica | Notas |
-|---|---|---|---|
-| **Mometasona furoato** 50 mcg | 2 pulv/fosa/24h | ≥2a: 1 pulv/fosa/24h | Seguro embarazo |
-| **Fluticasona furoato** 27,5 mcg | 2 pulv/fosa/24h | ≥2a: 1-2 pulv/fosa/24h | Mínima biodisponibilidad |
-| **Fluticasona propionato** 50 mcg | 2 pulv/fosa/24h | ≥4a: 1 pulv/fosa/24h | Seguro embarazo |
-| **Budesonida** 32 mcg | 1-2 pulv/fosa/24h | ≥6a: 1 pulv/fosa/24h | Seguro embarazo |
-
-### Combos intranasales (INCS + AH nasal)
-| Principio activo | Dosis | Edad mín |
-|---|---|---|
-| **Azelastina/fluticasona** | 1 pulv/fosa/12h | ≥6 años |
-| **Olopatadina/mometasona** | 2 pulv/fosa/12h | ≥12 años |
-
-### AH orales 2ª gen
-| Principio activo | Dosis adulto |
-|---|---|
-| Bilastina | 20 mg/24h en ayunas |
-| Cetirizina | 10 mg/24h |
-| Loratadina | 10 mg/24h |
-| Fexofenadina | 180 mg/24h |
-| Desloratadina | 5 mg/24h |
-
-### Colirios AH
-| Principio activo | Dosis |
-|---|---|
-| Olopatadina 0,1% / 0,2% | 1 gota/ojo/12h o 24h |
-| Ketotifeno 0,025% | 1 gota/ojo/12h |
-| Azelastina 0,05% | 1 gota/ojo/12h |
-
-### Otros fármacos
-| Fármaco | Dosis | Indicación |
-|---|---|---|
-| Ipratropio nasal 0,03% | 2 pulv/fosa/8-12h | Rinorrea acuosa profusa |
-| Prednisona | 30-40 mg/24h × 3-5 d | Exacerbación aguda (URG) |
-| Oximetazolina 0,05% | 1 pulv/fosa/12h × 3-5 d | Puente si obstrucción impide INCS |
-
-> **Nota ponente:** "Esta diapositiva es de referencia — no la voy a leer entera. Es para que tengáis las dosis exactas de cada fármaco que aparece en el algoritmo. Lo importante: mometasona y fluticasona son los INCS más usados, 2 pulsaciones por fosa al día. Los combos intranasales se dan cada 12 horas. Y recordad: los antihistamínicos orales se dan una vez al día y bilastina se toma en ayunas."
-
----
-
 ## Diapositiva 7 — Tratamiento y recomendaciones al alta: 3 escenarios (1 min) — DIAPOSITIVA PRÁCTICA
 
 **En pantalla:**
@@ -253,11 +208,13 @@ No→Escalar→     No→+AH intranasal     Alta: INCS+AH+lavados
 
 | Fármaco | Posología |
 |---------|-----------|
-| Bilastina 20 mg | 1 comp/24h en ayunas (o cetirizina 10 mg, loratadina 10 mg) |
-| Suero salino nasal | Lavados 2-3 veces/día |
+| **Mometasona furoato** spray 50 mcg | **2 pulv/fosa nasal/24h** (mañana) |
+| Suero salino nasal | Lavados **10-15 min ANTES** del spray |
 | ± Olopatadina colirio 0,1% | 1 gota/ojo/12h si conjuntivitis |
 
-Revisión en 2-4 semanas → si persiste, escalar a INCS
+> Si rechaza spray nasal (alternativa): bilastina 20 mg/24h en ayunas · cetirizina 10 mg/24h · loratadina 10 mg/24h. Los AH orales NO alivian la congestión nasal.
+
+Revisión en 2-4 semanas → si sin control: escalar a INCS dosis plena ± AH intranasal
 
 ### B) Moderada-grave / Persistente
 
