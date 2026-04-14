@@ -284,118 +284,125 @@
 
 <!-- ============ SLIDE 6B: ALGORITMO TERAPÉUTICO ============ -->
 <section>
-  <h2 style="margin-bottom:0.15em;">Algoritmo terap&eacute;utico (UpToDate 2026)</h2>
-  <div class="algo" style="font-size:0.60em;">
+  <h2 style="margin-bottom:0.1em;">Algoritmo terap&eacute;utico (UpToDate 2026)</h2>
+  <div style="font-size:0.58em;">
 
-    <!-- Fila 1: Diagnóstico -->
-    <div class="algo-arrow" style="margin-bottom:0.05em;">
-      <div class="algo-node algo-start" style="padding:0.3em 1em;">Rinoconjuntivitis al&eacute;rgica confirmada</div>
-    </div>
-    <div class="algo-arrow" style="line-height:0.9;">&darr;</div>
-
-    <!-- Fila 2: Base para todos -->
+    <!-- Paso 1: Medidas para todos -->
     <div style="text-align:center;">
-      <div class="algo-node algo-base" style="display:inline-block;padding:0.3em 0.8em;"><strong>PARA TODOS:</strong> evitaci&oacute;n alerg&eacute;nica + lavados nasales con SSF <span class="badge badge-blue" style="font-size:0.85em;">2C</span><br><span style="font-size:0.85em;">SSF 10-15 min antes del spray &middot; Irrigaci&oacute;n &gt;200 mL/lado preferida</span></div>
+      <div class="algo-node algo-base" style="display:inline-block;padding:0.25em 1em;">
+        <strong>PARA TODOS:</strong> evitaci&oacute;n alerg&eacute;nica + lavados nasales con SSF
+        <span class="badge badge-blue" style="font-size:0.85em;">2C</span><br>
+        <span style="font-size:0.85em;">SSF 10-15 min antes del spray &middot; Irrigaci&oacute;n &gt;200 mL/lado preferida</span>
+      </div>
     </div>
-    <div class="algo-arrow" style="line-height:0.9;">&darr;</div>
+    <div class="algo-arrow" style="line-height:0.8;">&darr;</div>
 
-    <!-- Fila 3: Clasificar -->
+    <!-- Paso 2: Clasificar ARIA -->
     <div style="text-align:center;">
-      <div class="algo-node algo-classify" style="display:inline-block;padding:0.3em 0.8em;">Clasificar seg&uacute;n <strong>ARIA</strong> (duraci&oacute;n + gravedad)</div>
+      <div class="algo-node algo-classify" style="display:inline-block;padding:0.2em 0.8em;">
+        Clasificar seg&uacute;n <strong>ARIA</strong> (duraci&oacute;n &times; gravedad)
+      </div>
     </div>
-    <div class="algo-arrow" style="line-height:0.9;">&swarr;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&searr;</div>
+    <div class="algo-arrow" style="line-height:0.8;">&swarr;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&searr;</div>
 
-    <!-- Fila 4: Dos columnas principales + urgencias lateral -->
-    <div class="algo-row" style="gap:0.8em;">
+    <!-- Paso 3: Dos columnas -->
+    <div style="display:flex;gap:0.8em;justify-content:center;align-items:flex-start;">
 
-      <!-- Columna LEVE / INTERMITENTE -->
-      <div class="algo-col" style="max-width:26%;">
-        <div class="algo-node algo-leve" style="width:100%;"><strong>Leve / Intermitente</strong> <span class="badge badge-blue" style="font-size:0.8em;">2B</span><br><strong>INCS</strong> = preferido<br><span style="font-size:0.85em;">Alt: AH oral 2&ordf; gen<br>&plusmn; colirio AH si ojo</span></div>
-        <div class="algo-arrow" style="line-height:0.9;">&darr;</div>
+      <!-- === LEVE / INTERMITENTE === -->
+      <div style="flex:0 1 42%;display:flex;flex-direction:column;align-items:center;gap:0.12em;">
+        <div class="algo-node algo-leve" style="width:100%;padding:0.25em 0.5em;">
+          <strong>Leve / Intermitente</strong> <span class="badge badge-blue" style="font-size:0.8em;">2B</span><br>
+          <strong>Mometasona</strong> 50 mcg &mdash; 2 pulv/fosa/24h<br>
+          <span style="font-size:0.85em;">Estacional: iniciar &ge;1 sem antes<br>
+          Alt si rechaza spray: bilastina 20 mg,<br>cetirizina 10 mg o loratadina 10 mg</span>
+        </div>
+        <div class="algo-arrow" style="line-height:0.8;">&darr;</div>
         <div class="algo-node algo-decision" style="font-size:0.9em;">&iquest;Control 2-4 sem?</div>
-        <div style="display:flex;gap:0.6em;width:100%;justify-content:center;">
+        <div style="display:flex;gap:0.4em;width:100%;justify-content:center;">
           <div style="text-align:center;flex:1;">
-            <div class="algo-arrow" style="color:#27ae60;line-height:0.9;">&darr; S&iacute;</div>
-            <div class="algo-node algo-ok" style="font-size:0.85em;">Mantener</div>
+            <div class="algo-arrow" style="color:#27ae60;line-height:0.8;">&darr; S&iacute;</div>
+            <div class="algo-node algo-ok" style="font-size:0.85em;">Mantener<br><span style="font-size:0.85em;font-weight:normal;">Reducir a m&iacute;n. eficaz</span></div>
           </div>
           <div style="text-align:center;flex:1;">
-            <div class="algo-arrow" style="color:#e74c3c;line-height:0.9;">&darr; No</div>
-            <div class="algo-node algo-mod" style="font-size:0.85em;">Escalar a<br><strong>INCS a dosis plenas</strong></div>
+            <div class="algo-arrow" style="color:#e74c3c;line-height:0.8;">&darr; No</div>
+            <div class="algo-node algo-mod" style="font-size:0.85em;">Tratar como<br><strong>moderada-grave</strong> &rarr;</div>
           </div>
         </div>
       </div>
 
-      <!-- Columna MOD-GRAVE / PERSISTENTE -->
-      <div class="algo-col" style="max-width:40%;">
-        <div class="algo-node algo-mod" style="width:100%;"><strong>Moderada-grave / Persistente</strong> <span class="badge badge-blue" style="font-size:0.8em;">1A</span><br><strong>INCS dosis m&aacute;xima</strong> para edad<br><span style="font-size:0.85em;">&plusmn; colirio AH si componente ocular</span></div>
-        <div class="algo-arrow" style="line-height:0.9;">&darr;</div>
+      <!-- === MODERADA-GRAVE / PERSISTENTE === -->
+      <div style="flex:0 1 54%;display:flex;flex-direction:column;align-items:center;gap:0.12em;">
+        <div class="algo-node algo-mod" style="width:100%;padding:0.25em 0.5em;">
+          <strong>Moderada-grave / Persistente</strong> <span class="badge badge-blue" style="font-size:0.8em;">1A</span><br>
+          <strong>INCS dosis plena</strong> para edad<br>
+          <span style="font-size:0.85em;">&plusmn; colirio AH si componente ocular</span>
+        </div>
+        <div class="algo-arrow" style="line-height:0.8;">&darr;</div>
         <div class="algo-node algo-decision" style="font-size:0.9em;">&iquest;Control 2-4 sem?</div>
-        <div style="display:flex;gap:0.6em;width:100%;justify-content:center;">
+        <div style="display:flex;gap:0.4em;width:100%;justify-content:center;">
           <div style="text-align:center;flex:1;">
-            <div class="algo-arrow" style="color:#27ae60;line-height:0.9;">&darr; S&iacute;</div>
+            <div class="algo-arrow" style="color:#27ae60;line-height:0.8;">&darr; S&iacute;</div>
             <div class="algo-node algo-ok" style="font-size:0.85em;">Reducir a<br>m&iacute;nima dosis</div>
           </div>
           <div style="text-align:center;flex:1;">
-            <div class="algo-arrow" style="color:#e74c3c;line-height:0.9;">&darr; No</div>
-            <div class="algo-node algo-mod" style="font-size:0.85em;">+ <strong>AH intranasal</strong><br><span style="font-size:0.8em;">(NO otro AH oral)</span></div>
+            <div class="algo-arrow" style="color:#e74c3c;line-height:0.8;">&darr; No</div>
+            <div class="algo-node algo-mod" style="font-size:0.85em;">
+              + <strong>AH intranasal</strong> <span class="badge badge-blue" style="font-size:0.8em;">2B</span><br>
+              <span style="font-size:0.8em;">Azelastina + fluticasona 1 pulv/fosa/12h<br>
+              Alt: olopatadina + mometasona 2 pulv/fosa/12h</span>
+            </div>
           </div>
         </div>
-        <div style="text-align:center;width:100%;">
-          <div style="display:inline-block;text-align:left;font-size:0.85em;margin-top:0.15em;padding:0.2em 0.5em;background:#eaf2f8;border-radius:4px;">
-            Combo: azelastina/fluticasona &oacute; mometasona/olopatadina<br>
-            &plusmn; Ipratropio nasal si rinorrea acuosa profusa
-          </div>
-        </div>
-        <div class="algo-arrow" style="line-height:0.9;">&darr;</div>
-        <div class="algo-node algo-decision" style="font-size:0.9em;">&iquest;Control 1-2 meses?</div>
-        <div style="display:flex;gap:0.6em;width:100%;justify-content:center;">
-          <div style="text-align:center;flex:1;">
-            <div class="algo-arrow" style="color:#27ae60;line-height:0.9;">&darr; S&iacute;</div>
-            <div class="algo-node algo-ok" style="font-size:0.85em;">Mantener</div>
-          </div>
-          <div style="text-align:center;flex:1;">
-            <div class="algo-arrow" style="color:#e74c3c;line-height:0.9;">&darr; No</div>
-            <div class="algo-node algo-refract" style="font-size:0.85em;"><strong>REFRACTARIO</strong><br><span style="font-size:0.85em;">Evaluar dx alternativos<br>(rinosinusitis, r. medicamentosa)</span></div>
-          </div>
-        </div>
-        <div class="algo-arrow" style="line-height:0.9;">&darr;</div>
-        <div class="algo-node algo-deriv" style="width:80%;"><strong>Derivar Alergolog&iacute;a</strong><br><span style="font-size:0.85em;">Inmunoterapia &middot; Sinusitis/otitis recurrente &middot; Asma</span></div>
-      </div>
-
-      <!-- Columna URGENCIAS (entrada lateral) -->
-      <div class="algo-col" style="max-width:28%;">
-        <div class="algo-node algo-urg" style="width:100%;"><strong>URGENCIAS</strong><br>Exacerbaci&oacute;n aguda</div>
-        <div class="algo-arrow" style="line-height:0.9;">&darr;</div>
-        <div class="algo-node algo-urg" style="width:100%;font-weight:normal;font-size:0.9em;">
-          <strong>Prednisona</strong> 30-40 mg &times; 3-5 d<br>
-          &plusmn; Oximetazolina m&aacute;x 3-5 d (puente)<br>
-          <strong>Iniciar INCS desde URG</strong>
-        </div>
-        <div class="algo-arrow" style="line-height:0.9;">&darr;</div>
-        <div class="algo-node" style="background:#fff3cd;border:2px solid #f1c40f;font-size:0.85em;width:100%;">Descartar <strong>asma</strong> siempre<br><em>&iquest;pitos, disnea?</em></div>
-        <div class="algo-arrow" style="line-height:0.9;">&darr;</div>
-        <div class="algo-node algo-mod" style="width:100%;font-size:0.9em;">
-          <strong>Alta con plan:</strong><br>INCS + AH + lavados<br>
-          <strong style="color:#e74c3c;">Cita AP 2-4 sem</strong><br>
-          <span style="font-size:0.8em;">&larr; reevaluar en tronco principal</span>
+        <div class="algo-arrow" style="line-height:0.8;">&darr;</div>
+        <div class="algo-node algo-decision" style="font-size:0.85em;">Sin control tras 1-2 meses con INAH+INCS</div>
+        <div class="algo-arrow" style="line-height:0.8;">&darr;</div>
+        <div class="algo-node algo-deriv" style="width:85%;padding:0.2em 0.5em;">
+          <strong>Derivar Alergolog&iacute;a</strong><br>
+          <span style="font-size:0.85em;">Inmunoterapia &middot; Sinusitis/otitis recurrente &middot; Asma</span>
         </div>
       </div>
 
-    </div><!-- /algo-row -->
+    </div><!-- /flex columns -->
 
     <!-- Notas pie: Embarazo + Niños -->
-    <div style="display:flex;gap:0.6em;margin-top:0.2em;font-size:0.9em;">
-      <div class="box box-gray" style="flex:1;padding:0.2em 0.5em;margin:0;font-size:0.9em;">
-        &#129328; <strong>Embarazo:</strong> INCS seguros (fluticasona, mometasona, budesonida) &middot; AH: cetirizina, loratadina &middot; Evitar pseudoefedrina 1T y fenilefrina
+    <div class="fragment" style="display:flex;gap:0.5em;margin-top:0.15em;font-size:0.88em;">
+      <div class="box box-gray" style="flex:1;padding:0.15em 0.5em;margin:0;font-size:0.9em;">
+        &#129328; <strong>Embarazo:</strong> INCS seguros (fluticasona, mometasona, budesonida) &middot; AH: cetirizina, loratadina &middot; Evitar pseudoefedrina 1T
       </div>
-      <div class="box box-gray" style="flex:1;padding:0.2em 0.5em;margin:0;font-size:0.9em;">
-        &#128118; <strong>Ni&ntilde;os:</strong> INCS &ge;2 a&ntilde;os (mometasona, fluticasona furoato) &middot; &lt;2a: AH oral &rarr; derivar ORL &middot; Monitorizar velocidad de crecimiento
+      <div class="box box-gray" style="flex:1;padding:0.15em 0.5em;margin:0;font-size:0.9em;">
+        &#128118; <strong>Ni&ntilde;os:</strong> INCS &ge;2 a&ntilde;os (mometasona, fluticasona furoato) &middot; &lt;2a: AH oral &rarr; derivar ORL &middot; Monit. crecimiento
       </div>
     </div>
 
-  </div><!-- /algo -->
+  </div>
   <div class="footer-ref">Elaboraci&oacute;n propia basada en: Ellis AK. UpToDate, Mar 2026 &middot; deShazo RD. UpToDate, Feb 2026 &middot; ARIA-EAACI 2024-2025</div>
 </section>
+
+
+<!-- ============ SLIDE 6C: EXACERBACIÓN GRAVE ============ -->
+<section>
+  <h2>Exacerbaci&oacute;n grave: tratamiento y alta</h2>
+  <div class="box box-red" style="margin-bottom:0.4em;font-size:0.8em;">
+    <strong>Criterios:</strong> obstrucci&oacute;n nasal que <strong>impide la penetraci&oacute;n del spray</strong> &middot; s&iacute;ntomas que <strong>impiden dormir o trabajar</strong> &middot; sin control con tratamiento previo
+  </div>
+  <table class="rx-urg">
+    <tr><th>F&aacute;rmaco</th><th>Posolog&iacute;a</th></tr>
+    <tr class="fragment"><td><strong class="warn">Prednisona 30 mg</strong></td><td>1 comp/24h &times; <strong>5 d&iacute;as</strong> (no prolongar)</td></tr>
+    <tr class="fragment"><td>&plusmn; Oximetazolina 0,05% spray</td><td>1 pulv/fosa/12h &times; <strong>3-5 d&iacute;as m&aacute;x</strong> <span class="small">(puente)</span></td></tr>
+    <tr class="fragment"><td><strong>Mometasona furoato</strong> spray</td><td>2 pulv/fosa/24h &mdash; <strong>iniciar desde URG, mantener</strong></td></tr>
+    <tr class="fragment"><td>Bilastina 20 mg</td><td>1 comp/24h en ayunas con agua</td></tr>
+    <tr class="fragment"><td>Suero salino nasal</td><td>Lavados 2-3 veces/d&iacute;a</td></tr>
+    <tr class="fragment"><td>&plusmn; Olopatadina colirio</td><td>1 gota/ojo/12h <span class="small">(si ojos afectos)</span></td></tr>
+  </table>
+  <div class="fragment box box-red" style="margin-top:0.4em;">
+    <strong>Recomendaciones al paciente:</strong> ventanas cerradas &middot; gafas de sol &middot; ducharse al llegar a casa &middot; no tender ropa fuera
+  </div>
+  <div class="fragment box box-blue" style="margin-top:0.3em;">
+    &#128197; <strong>Cita AP en 2-4 semanas</strong> &middot; &#9888; Preguntar siempre por asma: <em>&ldquo;&iquest;nota pitos o le cuesta respirar?&rdquo;</em>
+  </div>
+  <div class="footer-ref">Ellis AK. UpToDate, Mar 2026 &middot; ICAR-AR 2023</div>
+</section>
+
 
 <!-- ============ SLIDE 7A: RECETA AP LEVE ============ -->
 <section>
@@ -442,29 +449,6 @@
   <div class="footer-ref">Ellis AK. UpToDate, Mar 2026 &middot; deShazo RD. UpToDate, Feb 2026 &middot; ARIA-EAACI 2024-2025</div>
 </section>
 
-<!-- ============ SLIDE 7C: RECETA EXACERBACIÓN GRAVE ============ -->
-<section>
-  <h2>Tratamiento y recomendaciones al alta: Exacerbaci&oacute;n grave</h2>
-  <div class="box box-red" style="margin-bottom:0.5em;font-size:0.8em;">
-    <strong>Criterios:</strong> obstrucci&oacute;n nasal que <strong>impide la penetraci&oacute;n del spray</strong> &middot; s&iacute;ntomas que <strong>impiden dormir o trabajar</strong> &middot; sin control con tratamiento previo
-  </div>
-  <table class="rx-urg">
-    <tr><th>Fármaco</th><th>Posología</th></tr>
-    <tr class="fragment"><td><strong class="warn">Prednisona 30 mg</strong></td><td>1 comp/24h &times; <strong>5 días</strong> (no prolongar)</td></tr>
-    <tr class="fragment"><td>&plusmn; Oximetazolina 0,05% spray</td><td>1 pulv/fosa/12h &times; <strong>3-5 días máx</strong> <span class="small">(puente)</span></td></tr>
-    <tr class="fragment"><td><strong>Mometasona furoato</strong> spray</td><td>2 pulv/fosa/24h &mdash; <strong>iniciar desde URG, mantener</strong></td></tr>
-    <tr class="fragment"><td>Bilastina 20 mg</td><td>1 comp/24h en ayunas con agua</td></tr>
-    <tr class="fragment"><td>Suero salino nasal</td><td>Lavados 2-3 veces/día</td></tr>
-    <tr class="fragment"><td>&plusmn; Olopatadina colirio</td><td>1 gota/ojo/12h <span class="small">(si ojos afectos)</span></td></tr>
-  </table>
-  <div class="fragment box box-red" style="margin-top:0.5em;">
-    <strong>Recomendaciones al paciente:</strong> ventanas cerradas &middot; gafas de sol &middot; ducharse al llegar a casa &middot; no tender ropa fuera
-  </div>
-  <div class="fragment box box-blue" style="margin-top:0.3em;">
-    &#128197; <strong>Cita AP en 2-4 semanas</strong> &middot; &#9888; Preguntar siempre por asma: <em>"¿nota pitos o le cuesta respirar?"</em>
-  </div>
-  <div class="footer-ref">Ellis AK. UpToDate, Mar 2026 &middot; ICAR-AR 2023</div>
-</section>
 
 <!-- ============ SLIDE 8: CIERRE ============ -->
 <section>

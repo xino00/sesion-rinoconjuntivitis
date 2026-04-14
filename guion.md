@@ -162,45 +162,72 @@
 
 ---
 
-## Diapositiva 6B — Algoritmo terapéutico visual (apoyo visual, ~20 seg)
+## Diapositiva 6B — Algoritmo terapéutico (apoyo visual, ~30 seg)
 
-**En pantalla:** Flowchart vertical escalonado basado en UpToDate con 2 columnas principales (Leve, Mod-grave) + entrada lateral de Urgencias. Incluye notas al pie sobre embarazo y niños.
+**En pantalla:** Flowchart vertical basado en UpToDate con bifurcación a 2 columnas (Leve, Mod-grave). Incluye posología y notas al pie sobre embarazo y niños.
 
 ```
-[RA confirmada]
-      ↓
 [PARA TODOS: Evitación + Lavados SSF (2C)]
 [SSF 10-15 min antes del spray · >200 mL/lado]
-      ↓
-[Clasificar ARIA (duración + gravedad)]
-    ↙              ↘
-[LEVE 2B]      [MOD-GRAVE 1A]         [URGENCIAS]
-INCS preferido  INCS dosis máx          Prednisona 3-5d
-Alt: AH oral    ± colirio AH            ± Oximetazolina
-    ↓               ↓                   INCS desde URG
-¿Control         ¿Control                    ↓
- 2-4s?            2-4s?              Descartar asma
-Sí→Mantener     Sí→↓dosis                   ↓
-No→Escalar→     No→+AH intranasal     Alta: INCS+AH+lavados
-               (combo nasal)          Cita AP 2-4 sem
-               ± Ipratropio          → reevaluar tronco
-                    ↓
-              ¿Control 1-2m?
-              Sí→Mantener
-              No→REFRACTARIO
-                 Evaluar dx alt.
-                 Derivar Alergología
-                 → Inmunoterapia
+              ↓
+[Clasificar ARIA (duración × gravedad)]
+        ↙              ↘
 
-[Embarazo: INCS seguros · AH: cetirizina, loratadina]
-[Niños: INCS ≥2a · <2a: AH oral → derivar ORL]
+[LEVE 2B]              [MOD-GRAVE 1A]
+Mometasona 50 mcg       INCS dosis plena
+2 pulv/fosa/24h          ± colirio AH si ojo
+Estacional: ≥1 sem antes
+Alt: bilastina 20 mg,        ↓
+cetirizina, loratadina   ¿Control 2-4s?
+      ↓                  Sí→Reducir a mín
+¿Control 2-4s?           No→+AH intranasal (2B)
+Sí→Mantener/reducir         Azel+fluti 1p/f/12h
+No→Tratar como               Alt: olopat+momet
+   moderada-grave→               2p/f/12h
+                              ↓
+                         Sin control 1-2 meses
+                              ↓
+                         Derivar Alergología
+                         IT · sinusitis · asma
+
+[🤰 Embarazo: INCS seguros · AH: cetirizina, loratadina]
+[👶 Niños ≥2a: mometasona, fluticasona furoato · <2a: AH → ORL]
 ```
 
-> **Nota ponente:** "Este algoritmo resume la lógica de UpToDate. Arriba, lo común para todos: lavados nasales — importante hacerlos 10-15 minutos antes del spray para que se absorba mejor. Luego clasificamos por ARIA. A la izquierda, leve: el INCS ya es preferido, el antihistamínico oral es solo alternativa. En el centro, moderada-grave: INCS a dosis plena, y si en 2-4 semanas no hay control, añadimos antihistamínico intranasal — no oral. Si en 1-2 meses sigue sin control, es refractario: descartamos otros diagnósticos y derivamos. A la derecha, urgencias entra lateralmente y reconecta con el seguimiento en AP. Abajo hay notas rápidas sobre embarazo y niños."
+> **Nota ponente:** "Este algoritmo resume la lógica de UpToDate. Arriba, lo común para todos: lavados nasales 10-15 minutos antes del spray. Luego clasificamos por ARIA. A la izquierda, leve: el INCS ya es preferido — mometasona 2 pulverizaciones por fosa al día — el antihistamínico oral es solo alternativa si rechaza el spray. Si no controla en 2-4 semanas, pasa al escalón de moderada-grave. A la derecha, INCS a dosis plena, y si en 2-4 semanas no hay control, añadimos antihistamínico intranasal — la combinación de azelastina más fluticasona es la preferida. Si en 1-2 meses sigue sin control, derivamos a Alergología."
 
 ---
 
-## Diapositiva 7 — Tratamiento y recomendaciones al alta: 3 escenarios (1 min) — DIAPOSITIVA PRÁCTICA
+## Diapositiva 6C — Exacerbación grave: tratamiento y alta (~30 seg)
+
+**En pantalla:**
+
+### Criterios de exacerbación grave
+- Obstrucción nasal que **impide la penetración del spray**
+- Síntomas que **impiden dormir o trabajar**
+- Sin control con tratamiento previo
+(Fuente: UpToDate Fuente 1, p8; ARIA 2010 Table 5)
+
+### Tratamiento
+
+| Fármaco | Posología |
+|---------|-----------|
+| **Prednisona 30 mg** | 1 comp/24h × **5 días** (no prolongar) |
+| ± Oximetazolina 0,05% spray | 1 pulv/fosa/12h × **3-5 días máx** (puente) |
+| **Mometasona furoato** spray | 2 pulv/fosa/24h — **iniciar desde URG, mantener** |
+| Bilastina 20 mg | 1 comp/24h en ayunas con agua |
+| Suero salino nasal | Lavados 2-3 veces/día |
+| ± Olopatadina colirio | 1 gota/ojo/12h si ojos afectos |
+
+### Recomendaciones al paciente
+- Ventanas cerradas · Gafas de sol · Ducharse al llegar · No tender ropa fuera
+- **Cita AP en 2-4 semanas** · Preguntar siempre por asma: *"¿nota pitos o le cuesta respirar?"*
+
+> **Nota ponente:** "La exacerbación grave es cuando el paciente no puede ni usar el spray porque tiene la nariz completamente obstruida, o cuando los síntomas le impiden dormir o trabajar. Aquí sí usamos prednisona oral — pauta corta de 5 días, sin descenso — y podemos dar oximetazolina como puente de 3-5 días máximo para descongestionar y que el INCS pueda entrar. Lo más importante: iniciar el INCS desde urgencias y mantenerlo de forma crónica. Y no os olvidéis: cita en AP a las 2-4 semanas y preguntad siempre por asma."
+
+---
+
+## Diapositiva 7 — Tratamiento y recomendaciones al alta: 2 escenarios (1 min) — DIAPOSITIVA PRÁCTICA
 
 **En pantalla:**
 
@@ -233,26 +260,7 @@ Revisión en 2-4 semanas → si sin control: añadir **AH intranasal** (azelasti
 - Sin control tras 1-2 meses con INCS + otro agente → **derivar Alergología**
 - **Embarazada**: preferir mometasona o fluticasona como INCS · AH oral: cetirizina o loratadina · Evitar pseudoefedrina (1er trim.) y fenilefrina
 
-### C) Exacerbación grave
-
-**Criterios:** obstrucción nasal que impide la penetración del spray · síntomas que impiden dormir o trabajar · sin control con tratamiento previo (UpToDate Fuente 1, p8; ARIA 2010 Table 5)
-
-| Fármaco | Posología |
-|---------|-----------|
-| **Prednisona 30 mg** | 1 comp/24h × **5 días** (no prolongar) |
-| ± Oximetazolina 0,05% spray | 1 pulv/fosa/12h × **3-5 días máximo** (si obstrucción impide paso del INCS) |
-| **Mometasona furoato** spray nasal | 2 pulv/fosa/24h — **iniciar desde urgencias, mantener indefinido** |
-| Bilastina 20 mg | 1 comp/24h en ayunas con agua |
-| Suero salino nasal | Lavados 2-3 veces/día |
-| ± Olopatadina colirio | 1 gota/ojo/12h si ojos afectos |
-
-**Recomendaciones al paciente:**
-- Ventanas cerradas en casa y coche durante la temporada
-- Gafas de sol en exteriores · Ducharse y cambiar ropa al llegar a casa
-- Evitar tender ropa en el exterior · No cortar césped
-- **Cita AP en 2-4 semanas** para reevaluar y ajustar tratamiento de base
-
-> **Nota ponente:** "Esta es la diapositiva que os podéis llevar al bolsillo. Tres escenarios: leve en consulta — antihistamínico oral, con o sin colirio. Moderada-grave en consulta — mometasona como base, enseñar la técnica del spray es fundamental. Y desde urgencias — la receta tipo que debemos hacer: prednisona corta, el descongestivo nasal SOLO como puente para que el corticoide nasal pueda entrar, y siempre pautar el INCS desde urgencias para mantenerlo de forma crónica. No os olvidéis de la cita de seguimiento en AP."
+> **Nota ponente:** "Estas son las recetas que os podéis llevar al bolsillo. Dos escenarios en consulta: leve — mometasona como base, AH oral solo si rechaza el spray. Moderada-grave — mometasona, enseñar la técnica del spray, y si no controla en 2-4 semanas, subir a combinación fija intranasal. La exacerbación grave ya la hemos visto en la slide anterior."
 
 ---
 
