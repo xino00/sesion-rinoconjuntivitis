@@ -23,7 +23,7 @@
 ### Rinoconjuntivitis alérgica
 
 - Inflamación **IgE-mediada** de mucosa nasal y conjuntival tras exposición a aeroalérgenos
-- **Prevalencia**: 10-30% adultos mundial · >6,6 millones en España (+42% en 5 años)
+- **Prevalencia**: 10-30% adultos (países industrializados) · Prevalencia en aumento (cambio climático)
 - Hasta **60%** asocian conjuntivitis alérgica concomitante
 - **"Una vía, una enfermedad"**: hasta 40% de los pacientes con rinitis desarrollan asma
 
@@ -212,9 +212,9 @@ No→Escalar→     No→+AH intranasal     Alta: INCS+AH+lavados
 | Suero salino nasal | Lavados **10-15 min ANTES** del spray |
 | ± Olopatadina colirio 0,1% | 1 gota/ojo/12h si conjuntivitis |
 
-> Si rechaza spray nasal (alternativa): bilastina 20 mg/24h en ayunas · cetirizina 10 mg/24h · loratadina 10 mg/24h. Los AH orales NO alivian la congestión nasal.
+> Si rechaza spray nasal (alternativa): bilastina 20 mg/24h en ayunas con agua · cetirizina 10 mg/24h · loratadina 10 mg/24h. Los AH orales NO alivian la congestión nasal.
 
-Revisión en 2-4 semanas → si sin control: escalar a INCS dosis plena ± AH intranasal
+Revisión en 2-4 semanas → si sin control: añadir **AH intranasal** (azelastina) o cambiar a combinación fija INAH+INCS
 
 ### B) Moderada-grave / Persistente
 
@@ -222,23 +222,27 @@ Revisión en 2-4 semanas → si sin control: escalar a INCS dosis plena ± AH in
 |---------|-----------|
 | **Mometasona furoato** spray nasal 50 mcg | **2 pulv/fosa nasal/24h** (mañana) |
 | Suero salino nasal | Lavados 10-15 min ANTES del spray |
-| ± Bilastina 20 mg | 1 comp/24h si componente ocular |
+| ± Bilastina 20 mg | 1 comp/24h en ayunas con agua (si componente ocular; no tomar con zumo) |
 | ± Olopatadina colirio 0,1% | 1 gota/ojo/12h si conjuntivitis |
 
 - **Técnica del spray**: cabeza recta, dirigir boquilla LEJOS del tabique, NO inspirar fuerte
 - Estacional: iniciar **≥1 semana antes** de la temporada
-- Revisar en 2-4 semanas → si sin control: cambiar a **azelastina/fluticasona** o **mometasona/olopatadina** combo intranasal 1 pulv/fosa/12h
+- Revisar en 2-4 semanas → si sin control: combinación fija intranasal:
+  - **Azelastina + fluticasona** 1 pulv/fosa nasal/12h
+  - Alt: olopatadina + mometasona 2 pulv/fosa nasal/12h
 - Sin control tras 1-2 meses con INCS + otro agente → **derivar Alergología**
 - **Embarazada**: preferir mometasona o fluticasona como INCS · AH oral: cetirizina o loratadina · Evitar pseudoefedrina (1er trim.) y fenilefrina
 
-### C) Desde Urgencias — Exacerbación aguda grave
+### C) Exacerbación grave
+
+**Criterios:** obstrucción nasal que impide la penetración del spray · síntomas que impiden dormir o trabajar · sin control con tratamiento previo (UpToDate Fuente 1, p8; ARIA 2010 Table 5)
 
 | Fármaco | Posología |
 |---------|-----------|
 | **Prednisona 30 mg** | 1 comp/24h × **5 días** (no prolongar) |
 | ± Oximetazolina 0,05% spray | 1 pulv/fosa/12h × **3-5 días máximo** (si obstrucción impide paso del INCS) |
 | **Mometasona furoato** spray nasal | 2 pulv/fosa/24h — **iniciar desde urgencias, mantener indefinido** |
-| Bilastina 20 mg | 1 comp/24h |
+| Bilastina 20 mg | 1 comp/24h en ayunas con agua |
 | Suero salino nasal | Lavados 2-3 veces/día |
 | ± Olopatadina colirio | 1 gota/ojo/12h si ojos afectos |
 
@@ -286,4 +290,5 @@ Revisión en 2-4 semanas → si sin control: escalar a INCS dosis plena ± AH in
 3. deShazo RD, Kemp SF. Patient education: Allergic rhinitis (Beyond the Basics). *UpToDate*. Feb 2026. Revisión de literatura hasta Mar 2026.
 4. Wise SK et al. International consensus statement on allergy and rhinology: Allergic rhinitis — 2023. *Int Forum Allergy Rhinol*. 2023;13:293-859. DOI: 10.1002/alr.23090
 5. Sousa-Pinto B, Bousquet J et al. ARIA-EAACI Guidelines 2024-2025: Part I — Intranasal Treatments. *Allergy*. 2026;81(4):954-976. DOI: 10.1111/all.70131
-6. Red Palinológica de la Comunidad de Madrid (PALINOCAM). comunidad.madrid/servicios/salud/polen · Niveles interactivos: polenes.com/home
+6. Vieira RJ, Sousa-Pinto B, Bousquet J et al. ARIA-EAACI Guidelines 2024-2025: Part II — Oral and Ocular Treatments. *Allergy*. 2026;0:1-24. DOI: 10.1111/all.70305
+7. Red Palinológica de la Comunidad de Madrid (PALINOCAM). comunidad.madrid/servicios/salud/polen · Niveles interactivos: polenes.com/home
