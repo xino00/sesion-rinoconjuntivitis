@@ -162,11 +162,49 @@
 
 ---
 
-## Diapositiva 7 — Receta al alta: 3 escenarios (1 min) — DIAPOSITIVA PRÁCTICA
+## Diapositiva 6B — Algoritmo terapéutico visual (apoyo visual, ~20 seg)
+
+**En pantalla:** Flowchart vertical escalonado basado en UpToDate con 2 columnas principales (Leve, Mod-grave) + entrada lateral de Urgencias. Incluye notas al pie sobre embarazo y niños.
+
+```
+[RA confirmada]
+      ↓
+[PARA TODOS: Evitación + Lavados SSF (2C)]
+[SSF 10-15 min antes del spray · >200 mL/lado]
+      ↓
+[Clasificar ARIA (duración + gravedad)]
+    ↙              ↘
+[LEVE 2B]      [MOD-GRAVE 1A]         [URGENCIAS]
+INCS preferido  INCS dosis máx          Prednisona 3-5d
+Alt: AH oral    ± colirio AH            ± Oximetazolina
+    ↓               ↓                   INCS desde URG
+¿Control         ¿Control                    ↓
+ 2-4s?            2-4s?              Descartar asma
+Sí→Mantener     Sí→↓dosis                   ↓
+No→Escalar→     No→+AH intranasal     Alta: INCS+AH+lavados
+               (combo nasal)          Cita AP 2-4 sem
+               ± Ipratropium          → reevaluar tronco
+                    ↓
+              ¿Control 1-2m?
+              Sí→Mantener
+              No→REFRACTARIO
+                 Evaluar dx alt.
+                 Derivar Alergología
+                 → Inmunoterapia
+
+[Embarazo: INCS seguros · AH: cetirizina, loratadina]
+[Niños: INCS ≥2a · <2a: AH oral → derivar ORL]
+```
+
+> **Nota ponente:** "Este algoritmo resume la lógica de UpToDate. Arriba, lo común para todos: lavados nasales — importante hacerlos 10-15 minutos antes del spray para que se absorba mejor. Luego clasificamos por ARIA. A la izquierda, leve: el INCS ya es preferido, el antihistamínico oral es solo alternativa. En el centro, moderada-grave: INCS a dosis plena, y si en 2-4 semanas no hay control, añadimos antihistamínico intranasal — no oral. Si en 1-2 meses sigue sin control, es refractario: descartamos otros diagnósticos y derivamos. A la derecha, urgencias entra lateralmente y reconecta con el seguimiento en AP. Abajo hay notas rápidas sobre embarazo y niños."
+
+---
+
+## Diapositiva 7 — Tratamiento y recomendaciones al alta: 3 escenarios (1 min) — DIAPOSITIVA PRÁCTICA
 
 **En pantalla:**
 
-### A) Desde consulta AP — Leve intermitente
+### A) Leve intermitente
 
 | Fármaco | Posología |
 |---------|-----------|
@@ -176,7 +214,7 @@
 
 Revisión en 2-4 semanas → si persiste, escalar a INCS
 
-### B) Desde consulta AP — Moderada-grave / Persistente
+### B) Moderada-grave / Persistente
 
 | Fármaco | Posología |
 |---------|-----------|
