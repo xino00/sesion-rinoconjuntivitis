@@ -93,23 +93,15 @@
   .portada-flower { font-size: 3em; margin-bottom: 0.3em; }
 
   /* Algoritmo terapéutico */
-  .algo { font-size: 0.62em; }
   .algo-node { border-radius: 8px; padding: 0.4em 0.7em; text-align: center; font-weight: 600; position: relative; }
-  .algo-start { background: #1a5276; color: white; font-size: 1.1em; padding: 0.5em 1.2em; }
   .algo-base { background: #d5f5e3; border: 2px solid #27ae60; color: #1a5276; }
   .algo-classify { background: #fef9e7; border: 2px solid #f1c40f; color: #1a5276; font-size: 1.05em; }
   .algo-leve { background: #eafaf1; border: 2px solid #27ae60; }
   .algo-mod { background: #eaf2f8; border: 2px solid #2e86c1; }
-  .algo-urg { background: #fdedec; border: 2px solid #e74c3c; }
   .algo-deriv { background: #fef5e7; border: 2px solid #e67e22; }
   .algo-ok { background: #d5f5e3; border: 2px solid #27ae60; font-weight: 700; color: #27ae60; }
-  .algo-arrow { text-align: center; font-size: 1.4em; color: #5d6d7e; line-height: 1; padding: 0.1em 0; }
-  .algo-arrow-side { font-size: 1.2em; color: #5d6d7e; align-self: center; }
-  .algo-decision { background: #f4f6f7; border: 2px dashed #5d6d7e; border-radius: 50% / 40%; padding: 0.3em 0.8em; text-align: center; font-style: italic; }
-  .algo-refract { background: #fef5e7; border: 3px solid #e67e22; }
-  .algo-row { display: flex; justify-content: center; gap: 1.5em; align-items: flex-start; }
-  .algo-col { display: flex; flex-direction: column; align-items: center; gap: 0.15em; flex: 1; max-width: 32%; }
-  .algo-col-wide { max-width: 42%; }
+  .algo-decision { background: #f4f6f7; border: 2px solid #95a5a6; border-radius: 8px; padding: 0.3em 0.8em; text-align: center; font-weight: 600; }
+  .algo-svg { text-align: center; line-height: 0; padding: 0.05em 0; }
 </style>
 </head>
 <body>
@@ -286,78 +278,93 @@
 <!-- ============ SLIDE 6B: ALGORITMO TERAPÉUTICO ============ -->
 <section>
   <h2 style="margin-bottom:0.1em;">Algoritmo terap&eacute;utico (UpToDate 2026)</h2>
-  <div style="font-size:0.58em;">
+  <div style="font-size:0.63em;">
 
     <!-- Paso 1: Medidas para todos -->
     <div style="text-align:center;">
-      <div class="algo-node algo-base" style="display:inline-block;padding:0.25em 1em;">
+      <div class="algo-node algo-base" style="display:inline-block;padding:0.3em 1.2em;">
         <strong>PARA TODOS:</strong> evitaci&oacute;n alerg&eacute;nica + lavados nasales con SSF
-        <span class="badge badge-blue" style="font-size:0.85em;">2C</span><br>
+        <span class="badge badge-blue" style="font-size:0.9em;">2C</span><br>
         <span style="font-size:0.85em;">SSF 10-15 min antes del spray &middot; Irrigaci&oacute;n &gt;200 mL/lado preferida</span>
       </div>
     </div>
-    <div class="algo-arrow" style="line-height:0.8;">&darr;</div>
+
+    <!-- Flecha ↓ -->
+    <div class="algo-svg"><svg width="24" height="28" viewBox="0 0 24 28"><line x1="12" y1="2" x2="12" y2="20" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/><polygon points="12,26 6,18 18,18" fill="#5d6d7e"/></svg></div>
 
     <!-- Paso 2: Clasificar ARIA -->
     <div style="text-align:center;">
-      <div class="algo-node algo-classify" style="display:inline-block;padding:0.2em 0.8em;">
+      <div class="algo-node algo-classify" style="display:inline-block;padding:0.25em 1em;">
         Clasificar seg&uacute;n <strong>ARIA</strong> (duraci&oacute;n &times; gravedad)
       </div>
     </div>
-    <div class="algo-arrow" style="line-height:0.8;">&swarr;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&searr;</div>
+
+    <!-- Bifurcación en ángulo recto: ┬ con flechas ▼ -->
+    <div class="algo-svg"><svg width="340" height="36" viewBox="0 0 340 36">
+      <!-- Línea vertical corta desde centro -->
+      <line x1="170" y1="0" x2="170" y2="8" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/>
+      <!-- Línea horizontal -->
+      <line x1="80" y1="8" x2="260" y2="8" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/>
+      <!-- Brazo izquierdo: vertical + punta -->
+      <line x1="80" y1="8" x2="80" y2="28" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/>
+      <polygon points="80,35 74,26 86,26" fill="#5d6d7e"/>
+      <!-- Brazo derecho: vertical + punta -->
+      <line x1="260" y1="8" x2="260" y2="28" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/>
+      <polygon points="260,35 254,26 266,26" fill="#5d6d7e"/>
+    </svg></div>
 
     <!-- Paso 3: Dos columnas -->
-    <div style="display:flex;gap:0.8em;justify-content:center;align-items:flex-start;">
+    <div style="display:flex;gap:1em;justify-content:center;align-items:flex-start;">
 
       <!-- === LEVE / INTERMITENTE === -->
-      <div style="flex:0 1 42%;display:flex;flex-direction:column;align-items:center;gap:0.12em;">
-        <div class="algo-node algo-leve" style="width:100%;padding:0.25em 0.5em;">
-          <strong>Leve / Intermitente</strong> <span class="badge badge-blue" style="font-size:0.8em;">2B</span><br>
+      <div style="flex:0 1 46%;display:flex;flex-direction:column;align-items:center;gap:0.1em;">
+        <div class="algo-node algo-leve" style="width:100%;padding:0.3em 0.5em;">
+          <strong>Leve / Intermitente</strong> <span class="badge badge-blue" style="font-size:0.9em;">2B</span><br>
           <strong>Mometasona</strong> 50 mcg &mdash; 2 pulv/fosa/24h<br>
           <span style="font-size:0.85em;">Estacional: iniciar &ge;1 sem antes<br>
           Alt si rechaza spray: bilastina 20 mg,<br>cetirizina 10 mg o loratadina 10 mg</span>
         </div>
-        <div class="algo-arrow" style="line-height:0.8;">&darr;</div>
+        <div class="algo-svg"><svg width="24" height="24" viewBox="0 0 24 24"><line x1="12" y1="2" x2="12" y2="16" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/><polygon points="12,22 6,14 18,14" fill="#5d6d7e"/></svg></div>
         <div class="algo-node algo-decision" style="font-size:0.9em;">&iquest;Control 2-4 sem?</div>
-        <div style="display:flex;gap:0.4em;width:100%;justify-content:center;">
+        <div style="display:flex;gap:0.5em;width:100%;justify-content:center;">
           <div style="text-align:center;flex:1;">
-            <div class="algo-arrow" style="color:#27ae60;line-height:0.8;">&darr; S&iacute;</div>
+            <div class="algo-svg"><svg width="20" height="20" viewBox="0 0 20 20"><line x1="10" y1="2" x2="10" y2="12" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/><polygon points="10,18 5,11 15,11" fill="#27ae60"/></svg><span style="font-size:0.85em;color:#27ae60;font-weight:700;"> S&iacute;</span></div>
             <div class="algo-node algo-ok" style="font-size:0.85em;">Mantener<br><span style="font-size:0.85em;font-weight:normal;">Reducir a m&iacute;n. eficaz</span></div>
           </div>
           <div style="text-align:center;flex:1;">
-            <div class="algo-arrow" style="color:#e74c3c;line-height:0.8;">&darr; No</div>
+            <div class="algo-svg"><svg width="20" height="20" viewBox="0 0 20 20"><line x1="10" y1="2" x2="10" y2="12" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/><polygon points="10,18 5,11 15,11" fill="#e74c3c"/></svg><span style="font-size:0.85em;color:#e74c3c;font-weight:700;"> No</span></div>
             <div class="algo-node algo-mod" style="font-size:0.85em;">Tratar como<br><strong>moderada-grave</strong> &rarr;</div>
           </div>
         </div>
       </div>
 
       <!-- === MODERADA-GRAVE / PERSISTENTE === -->
-      <div style="flex:0 1 54%;display:flex;flex-direction:column;align-items:center;gap:0.12em;">
-        <div class="algo-node algo-mod" style="width:100%;padding:0.25em 0.5em;">
-          <strong>Moderada-grave / Persistente</strong> <span class="badge badge-blue" style="font-size:0.8em;">1A</span><br>
+      <div style="flex:0 1 52%;display:flex;flex-direction:column;align-items:center;gap:0.1em;">
+        <div class="algo-node algo-mod" style="width:100%;padding:0.3em 0.5em;">
+          <strong>Moderada-grave / Persistente</strong> <span class="badge badge-blue" style="font-size:0.9em;">1A</span><br>
           <strong>INCS dosis plena</strong> para edad<br>
-          <span style="font-size:0.85em;">&plusmn; colirio AH si componente ocular</span>
+          <span style="font-size:0.85em;">&plusmn; colirio AH a demanda si ojos</span>
         </div>
-        <div class="algo-arrow" style="line-height:0.8;">&darr;</div>
+        <div class="algo-svg"><svg width="24" height="24" viewBox="0 0 24 24"><line x1="12" y1="2" x2="12" y2="16" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/><polygon points="12,22 6,14 18,14" fill="#5d6d7e"/></svg></div>
         <div class="algo-node algo-decision" style="font-size:0.9em;">&iquest;Control 2-4 sem?</div>
-        <div style="display:flex;gap:0.4em;width:100%;justify-content:center;">
+        <div style="display:flex;gap:0.5em;width:100%;justify-content:center;">
           <div style="text-align:center;flex:1;">
-            <div class="algo-arrow" style="color:#27ae60;line-height:0.8;">&darr; S&iacute;</div>
+            <div class="algo-svg"><svg width="20" height="20" viewBox="0 0 20 20"><line x1="10" y1="2" x2="10" y2="12" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/><polygon points="10,18 5,11 15,11" fill="#27ae60"/></svg><span style="font-size:0.85em;color:#27ae60;font-weight:700;"> S&iacute;</span></div>
             <div class="algo-node algo-ok" style="font-size:0.85em;">Reducir a<br>m&iacute;nima dosis</div>
           </div>
           <div style="text-align:center;flex:1;">
-            <div class="algo-arrow" style="color:#e74c3c;line-height:0.8;">&darr; No</div>
+            <div class="algo-svg"><svg width="20" height="20" viewBox="0 0 20 20"><line x1="10" y1="2" x2="10" y2="12" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/><polygon points="10,18 5,11 15,11" fill="#e74c3c"/></svg><span style="font-size:0.85em;color:#e74c3c;font-weight:700;"> No</span></div>
             <div class="algo-node algo-mod" style="font-size:0.85em;">
-              + <strong>AH intranasal</strong> <span class="badge badge-blue" style="font-size:0.8em;">2B</span><br>
-              <span style="font-size:0.8em;">Azelastina + fluticasona 1 pulv/fosa/12h<br>
+              + <strong>AH intranasal</strong> <span class="badge badge-blue" style="font-size:0.9em;">2B</span><br>
+              <span style="font-size:0.85em;">Azelastina + fluticasona 1 pulv/fosa/12h<br>
               Alt: olopatadina + mometasona 2 pulv/fosa/12h</span>
             </div>
           </div>
         </div>
-        <div class="algo-arrow" style="line-height:0.8;">&darr;</div>
+        <div class="algo-svg"><svg width="24" height="24" viewBox="0 0 24 24"><line x1="12" y1="2" x2="12" y2="16" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/><polygon points="12,22 6,14 18,14" fill="#5d6d7e"/></svg></div>
         <div class="algo-node algo-decision" style="font-size:0.85em;">Sin control tras 1-2 meses con INAH+INCS</div>
-        <div class="algo-arrow" style="line-height:0.8;">&darr;</div>
-        <div class="algo-node algo-deriv" style="width:85%;padding:0.2em 0.5em;">
+        <div class="algo-svg"><svg width="24" height="24" viewBox="0 0 24 24"><line x1="12" y1="2" x2="12" y2="16" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/><polygon points="12,22 6,14 18,14" fill="#5d6d7e"/></svg></div>
+        <div class="algo-node algo-deriv" style="width:85%;padding:0.25em 0.5em;">
           <strong>Derivar Alergolog&iacute;a</strong><br>
           <span style="font-size:0.85em;">Inmunoterapia &middot; Sinusitis/otitis recurrente &middot; Asma</span>
         </div>
