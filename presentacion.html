@@ -290,7 +290,7 @@
     </div>
 
     <!-- Flecha ↓ -->
-    <div class="algo-svg"><svg width="24" height="28" viewBox="0 0 24 28"><path d="M12 2v18" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M6 16l6 8 6-8" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+    <div class="algo-svg"><svg width="24" height="28" viewBox="0 0 24 28"><line x1="12" y1="2" x2="12" y2="20" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/><polygon points="12,26 6,18 18,18" fill="#5d6d7e"/></svg></div>
 
     <!-- Paso 2: Clasificar ARIA -->
     <div style="text-align:center;">
@@ -299,8 +299,19 @@
       </div>
     </div>
 
-    <!-- Bifurcación ↙ ↘ -->
-    <div class="algo-svg"><svg width="200" height="28" viewBox="0 0 200 28"><path d="M100 2 L40 22" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M34 14l-1 12 12-3" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M100 2 L160 22" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M166 14l1 12-12-3" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+    <!-- Bifurcación en ángulo recto: ┬ con flechas ▼ -->
+    <div class="algo-svg"><svg width="340" height="36" viewBox="0 0 340 36">
+      <!-- Línea vertical corta desde centro -->
+      <line x1="170" y1="0" x2="170" y2="8" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/>
+      <!-- Línea horizontal -->
+      <line x1="80" y1="8" x2="260" y2="8" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/>
+      <!-- Brazo izquierdo: vertical + punta -->
+      <line x1="80" y1="8" x2="80" y2="28" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/>
+      <polygon points="80,35 74,26 86,26" fill="#5d6d7e"/>
+      <!-- Brazo derecho: vertical + punta -->
+      <line x1="260" y1="8" x2="260" y2="28" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/>
+      <polygon points="260,35 254,26 266,26" fill="#5d6d7e"/>
+    </svg></div>
 
     <!-- Paso 3: Dos columnas -->
     <div style="display:flex;gap:1em;justify-content:center;align-items:flex-start;">
@@ -313,15 +324,15 @@
           <span style="font-size:0.85em;">Estacional: iniciar &ge;1 sem antes<br>
           Alt si rechaza spray: bilastina 20 mg,<br>cetirizina 10 mg o loratadina 10 mg</span>
         </div>
-        <div class="algo-svg"><svg width="24" height="24" viewBox="0 0 24 24"><path d="M12 2v14" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M6 12l6 8 6-8" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="algo-svg"><svg width="24" height="24" viewBox="0 0 24 24"><line x1="12" y1="2" x2="12" y2="16" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/><polygon points="12,22 6,14 18,14" fill="#5d6d7e"/></svg></div>
         <div class="algo-node algo-decision" style="font-size:0.9em;">&iquest;Control 2-4 sem?</div>
         <div style="display:flex;gap:0.5em;width:100%;justify-content:center;">
           <div style="text-align:center;flex:1;">
-            <div class="algo-svg"><svg width="20" height="20" viewBox="0 0 20 20"><path d="M10 2v10" stroke="#27ae60" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M5 9l5 7 5-7" stroke="#27ae60" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg><span style="font-size:0.85em;color:#27ae60;font-weight:700;"> S&iacute;</span></div>
+            <div class="algo-svg"><svg width="20" height="20" viewBox="0 0 20 20"><line x1="10" y1="2" x2="10" y2="12" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/><polygon points="10,18 5,11 15,11" fill="#27ae60"/></svg><span style="font-size:0.85em;color:#27ae60;font-weight:700;"> S&iacute;</span></div>
             <div class="algo-node algo-ok" style="font-size:0.85em;">Mantener<br><span style="font-size:0.85em;font-weight:normal;">Reducir a m&iacute;n. eficaz</span></div>
           </div>
           <div style="text-align:center;flex:1;">
-            <div class="algo-svg"><svg width="20" height="20" viewBox="0 0 20 20"><path d="M10 2v10" stroke="#e74c3c" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M5 9l5 7 5-7" stroke="#e74c3c" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg><span style="font-size:0.85em;color:#e74c3c;font-weight:700;"> No</span></div>
+            <div class="algo-svg"><svg width="20" height="20" viewBox="0 0 20 20"><line x1="10" y1="2" x2="10" y2="12" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/><polygon points="10,18 5,11 15,11" fill="#e74c3c"/></svg><span style="font-size:0.85em;color:#e74c3c;font-weight:700;"> No</span></div>
             <div class="algo-node algo-mod" style="font-size:0.85em;">Tratar como<br><strong>moderada-grave</strong> &rarr;</div>
           </div>
         </div>
@@ -334,15 +345,15 @@
           <strong>INCS dosis plena</strong> para edad<br>
           <span style="font-size:0.85em;">&plusmn; colirio AH a demanda si ojos</span>
         </div>
-        <div class="algo-svg"><svg width="24" height="24" viewBox="0 0 24 24"><path d="M12 2v14" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M6 12l6 8 6-8" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="algo-svg"><svg width="24" height="24" viewBox="0 0 24 24"><line x1="12" y1="2" x2="12" y2="16" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/><polygon points="12,22 6,14 18,14" fill="#5d6d7e"/></svg></div>
         <div class="algo-node algo-decision" style="font-size:0.9em;">&iquest;Control 2-4 sem?</div>
         <div style="display:flex;gap:0.5em;width:100%;justify-content:center;">
           <div style="text-align:center;flex:1;">
-            <div class="algo-svg"><svg width="20" height="20" viewBox="0 0 20 20"><path d="M10 2v10" stroke="#27ae60" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M5 9l5 7 5-7" stroke="#27ae60" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg><span style="font-size:0.85em;color:#27ae60;font-weight:700;"> S&iacute;</span></div>
+            <div class="algo-svg"><svg width="20" height="20" viewBox="0 0 20 20"><line x1="10" y1="2" x2="10" y2="12" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/><polygon points="10,18 5,11 15,11" fill="#27ae60"/></svg><span style="font-size:0.85em;color:#27ae60;font-weight:700;"> S&iacute;</span></div>
             <div class="algo-node algo-ok" style="font-size:0.85em;">Reducir a<br>m&iacute;nima dosis</div>
           </div>
           <div style="text-align:center;flex:1;">
-            <div class="algo-svg"><svg width="20" height="20" viewBox="0 0 20 20"><path d="M10 2v10" stroke="#e74c3c" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M5 9l5 7 5-7" stroke="#e74c3c" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg><span style="font-size:0.85em;color:#e74c3c;font-weight:700;"> No</span></div>
+            <div class="algo-svg"><svg width="20" height="20" viewBox="0 0 20 20"><line x1="10" y1="2" x2="10" y2="12" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/><polygon points="10,18 5,11 15,11" fill="#e74c3c"/></svg><span style="font-size:0.85em;color:#e74c3c;font-weight:700;"> No</span></div>
             <div class="algo-node algo-mod" style="font-size:0.85em;">
               + <strong>AH intranasal</strong> <span class="badge badge-blue" style="font-size:0.9em;">2B</span><br>
               <span style="font-size:0.85em;">Azelastina + fluticasona 1 pulv/fosa/12h<br>
@@ -350,9 +361,9 @@
             </div>
           </div>
         </div>
-        <div class="algo-svg"><svg width="24" height="24" viewBox="0 0 24 24"><path d="M12 2v14" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M6 12l6 8 6-8" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="algo-svg"><svg width="24" height="24" viewBox="0 0 24 24"><line x1="12" y1="2" x2="12" y2="16" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/><polygon points="12,22 6,14 18,14" fill="#5d6d7e"/></svg></div>
         <div class="algo-node algo-decision" style="font-size:0.85em;">Sin control tras 1-2 meses con INAH+INCS</div>
-        <div class="algo-svg"><svg width="24" height="24" viewBox="0 0 24 24"><path d="M12 2v14" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M6 12l6 8 6-8" stroke="#5d6d7e" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="algo-svg"><svg width="24" height="24" viewBox="0 0 24 24"><line x1="12" y1="2" x2="12" y2="16" stroke="#5d6d7e" stroke-width="2.5" stroke-linecap="round"/><polygon points="12,22 6,14 18,14" fill="#5d6d7e"/></svg></div>
         <div class="algo-node algo-deriv" style="width:85%;padding:0.25em 0.5em;">
           <strong>Derivar Alergolog&iacute;a</strong><br>
           <span style="font-size:0.85em;">Inmunoterapia &middot; Sinusitis/otitis recurrente &middot; Asma</span>
