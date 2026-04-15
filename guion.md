@@ -108,7 +108,9 @@
 
 *INCS = corticoide intranasal · AH = antihistamínico*
 
-> **Nota ponente:** "La clasificación ARIA usa dos ejes: duración e intensidad. Lo importante es que UpToDate ya recomienda el corticoide intranasal incluso para síntomas leves e intermitentes — con grado de evidencia 2B — no solo antihistamínico oral. Y para todo lo que sea moderado-grave o persistente, el corticoide nasal es Grade 1A, la máxima recomendación."
+*Novedad ARIA 2024-2025: sugiere INAH+INCS sobre INCS solo en moderada-grave (condicional, certeza moderada SAR) · INCS sobre OAH ahora es recomendación fuerte*
+
+> **Nota ponente:** "La clasificación ARIA usa dos ejes: duración e intensidad. Lo importante es que UpToDate ya recomienda el corticoide intranasal incluso para síntomas leves e intermitentes — con grado de evidencia 2B — no solo antihistamínico oral. Y para todo lo que sea moderado-grave o persistente, el corticoide nasal es Grade 1A, la máxima recomendación. Novedad ARIA 2024-2025: en moderada-grave, sugieren INAH+INCS sobre INCS solo — condicional, certeza moderada SAR. Y INCS sobre antihistamínico oral ahora es recomendación fuerte."
 
 ---
 
@@ -137,7 +139,7 @@
   - Técnica: cabeza recta o mentón ligeramente bajado, dirigir spray LEJOS del tabique, inspirar suave (no fuerte — si sabe amargo, ha inspirado demasiado)
   - Truco: ocluir la fosa contraria con un dedo para mejorar distribución
   - Efectos secundarios leves: sequedad nasal, mal sabor, irritación, epistaxis septal (minimizar con técnica correcta)
-- Si no responde → **añadir AH intranasal** (Grade 2B), NO otro AH oral
+- Si no responde → **añadir AH intranasal** (Grade 2B), NO otro AH oral · ARIA 2024-2025: sugiere INAH+INCS sobre INCS solo
   - Combinación INCS + AH nasal (azelastina/fluticasona): onset 15-30 min
   - Alternativa: **mometasona/olopatadina** — misma eficacia, aprobado ≥6 años
   - En ensayo con ~3400 pac.: resolución casi completa 12% combo vs 9% fluticasona vs 4% placebo
@@ -158,7 +160,7 @@
 - Opción no farmacológica: lavados nasales con SSF · Cromoglicato nasal (seguro)
 - Referencia: deShazo RD. UpToDate, Feb 2026
 
-> **Nota ponente:** "Esta es la diapositiva clave. Tres ideas: Primera — el corticoide intranasal es el tratamiento más eficaz y se recomienda ya desde síntomas leves. Es un error muy frecuente poner solo loratadina cuando un paciente necesita un corticoide nasal. Segunda — si el corticoide nasal solo no es suficiente, UpToDate recomienda añadir un antihistamínico intranasal — no otro antihistamínico oral, que no ha demostrado ventaja añadida clara. Hay dos combos intranasales: azelastina-fluticasona y mometasona-olopatadina, ambas actúan en 15-30 minutos. Tercera — en urgencias, pauta corta de corticoides orales, pero ojo con los descongestivos tópicos: UpToDate advierte de rinitis medicamentosa ya desde 3 días de uso más de una vez al día. Y lo más importante: dar el ALTA con un plan de tratamiento de base y cita en AP. Mención rápida al embarazo: los INCS son seguros — se prefieren fluticasona o mometasona — y como antihistamínico oral, cetirizina o loratadina."
+> **Nota ponente:** "Esta es la diapositiva clave. Tres ideas: Primera — el corticoide intranasal es el tratamiento más eficaz y se recomienda ya desde síntomas leves. Es un error muy frecuente poner solo loratadina cuando un paciente necesita un corticoide nasal. Segunda — si el corticoide nasal solo no es suficiente, UpToDate recomienda añadir un antihistamínico intranasal — no otro antihistamínico oral, que no ha demostrado ventaja añadida clara. Hay dos combos intranasales: azelastina-fluticasona y mometasona-olopatadina, ambas actúan en 15-30 minutos. Tercera — en urgencias, pauta corta de corticoides orales, pero ojo con los descongestivos tópicos: UpToDate advierte de rinitis medicamentosa ya desde 3 días de uso más de una vez al día. Y lo más importante: dar el ALTA con un plan de tratamiento de base y cita en AP. Mención rápida al embarazo: los INCS son seguros — se prefieren fluticasona o mometasona — y como antihistamínico oral, cetirizina o loratadina. Dato importante: las guías ARIA 2024-2025 — publicadas este año — posicionan la combinación intranasal (INAH+INCS) como preferida sobre INCS solo en moderada-grave. También cambian INCS sobre AH oral de condicional a recomendación fuerte. Y un matiz nuevo para la rinoconjuntivitis: sugieren en contra del colirio antihistamínico como tratamiento de base en estacional — solo a demanda para alivio rápido."
 
 ---
 
@@ -237,7 +239,9 @@ No→Tratar como               Alt: olopat+momet
 |---------|-----------|
 | **Mometasona furoato** spray 50 mcg | **2 pulv/fosa nasal/24h** (mañana) |
 | Suero salino nasal | Lavados **10-15 min ANTES** del spray |
-| ± Olopatadina colirio 0,1% | 1 gota/ojo/12h si conjuntivitis |
+| ± Olopatadina colirio 0,1% | 1 gota/ojo/12h a demanda si síntomas oculares prominentes |
+
+**⏱ Duración:** estacional → mantener INCS durante toda la temporada polínica (abr-jul en Madrid para gramíneas). Iniciar ≥1 sem antes. Exposición puntual → 2 días antes hasta 2 días después. Suspender fuera de temporada.
 
 > Si rechaza spray nasal (alternativa): bilastina 20 mg/24h en ayunas con agua · cetirizina 10 mg/24h · loratadina 10 mg/24h. Los AH orales NO alivian la congestión nasal.
 
@@ -250,7 +254,9 @@ Revisión en 2-4 semanas → si sin control: añadir **AH intranasal** (azelasti
 | **Mometasona furoato** spray nasal 50 mcg | **2 pulv/fosa nasal/24h** (mañana) |
 | Suero salino nasal | Lavados 10-15 min ANTES del spray |
 | ± Bilastina 20 mg | 1 comp/24h en ayunas con agua (si componente ocular; no tomar con zumo) |
-| ± Olopatadina colirio 0,1% | 1 gota/ojo/12h si conjuntivitis |
+| ± Olopatadina colirio 0,1% | 1 gota/ojo/12h a demanda si síntomas oculares prominentes pese a AH oral |
+
+**⏱ Duración:** estacional → INCS durante toda la temporada. Perenne → uso diario crónico, reducir a dosis mínima eficaz. Combo INAH+INCS → mantener mientras síntomas mod-graves; puede reducirse a INCS solo al mejorar.
 
 - **Técnica del spray**: cabeza recta, dirigir boquilla LEJOS del tabique, NO inspirar fuerte
 - Estacional: iniciar **≥1 semana antes** de la temporada
@@ -260,7 +266,7 @@ Revisión en 2-4 semanas → si sin control: añadir **AH intranasal** (azelasti
 - Sin control tras 1-2 meses con INCS + otro agente → **derivar Alergología**
 - **Embarazada**: preferir mometasona o fluticasona como INCS · AH oral: cetirizina o loratadina · Evitar pseudoefedrina (1er trim.) y fenilefrina
 
-> **Nota ponente:** "Estas son las recetas que os podéis llevar al bolsillo. Dos escenarios en consulta: leve — mometasona como base, AH oral solo si rechaza el spray. Moderada-grave — mometasona, enseñar la técnica del spray, y si no controla en 2-4 semanas, subir a combinación fija intranasal. La exacerbación grave ya la hemos visto en la slide anterior."
+> **Nota ponente:** "Estas son las recetas que os podéis llevar al bolsillo. Dos escenarios en consulta: leve — mometasona como base, AH oral solo si rechaza el spray. Moderada-grave — mometasona, enseñar la técnica del spray, y si no controla en 2-4 semanas, subir a combinación fija intranasal. La exacerbación grave ya la hemos visto en la slide anterior. Un matiz ARIA 2024-2025: sugieren fluticasona furoato como INCS preferido por metaanálisis en red, pero con certeza baja. Mometasona es igualmente eficaz y más coste-efectiva — la mantenemos como referencia en AP. Y para el colirio: a demanda si síntomas oculares prominentes, no como base del tratamiento. Recordad que el INCS se mantiene durante toda la temporada — no es como un antibiótico de 7 días. Para gramíneas en Madrid, eso son unos 3 meses de abril a julio. Si es una exposición puntual, como visitar a alguien con gato, basta con empezar 2 días antes y mantener 2 días después. La combinación intranasal se mantiene mientras haya síntomas moderados-graves. Si mejora, podemos bajar a INCS solo. En perenne — ácaros por ejemplo — el tratamiento es crónico a la mínima dosis eficaz."
 
 ---
 
@@ -280,9 +286,10 @@ Revisión en 2-4 semanas → si sin control: añadir **AH intranasal** (azelasti
 | AH 1ª gen (dexclorfeniramina) | Sedación, accidentes |
 | Montelukast sin asma | Alerta máxima FDA neuropsiq. |
 | No preguntar por asma | 40% rinitis → asma |
+| Colirio AH como base en SAR | ARIA 2024-2025: solo a demanda |
 
 ### Llévate esto a casa
-1. **INCS = primera línea** para casi todo (Grade 1A/2B)
+1. **INCS (o INCS+INAH) = primera línea** para casi todo (Grade 1A/2B)
 2. **Si falla INCS → añade AH intranasal**, no otro AH oral
 3. **En urgencias**: prednisona corta + INCS desde el alta + cita AP
 4. **Siempre pregunta por asma**
