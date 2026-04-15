@@ -177,7 +177,7 @@
 
 [LEVE 2B]              [MOD-GRAVE 1A]
 Mometasona 50 mcg       INCS dosis plena
-2 pulv/fosa/24h          ± colirio AH si ojo
+2 pulv/fosa/24h          ± colirio AH a demanda si ojos
 Estacional: ≥1 sem antes
 Alt: bilastina 20 mg,        ↓
 cetirizina, loratadina   ¿Control 2-4s?
