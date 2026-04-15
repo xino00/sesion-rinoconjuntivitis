@@ -200,35 +200,6 @@ No→Tratar como               Alt: olopat+momet
 
 ---
 
-## Diapositiva 6C — Exacerbación grave: tratamiento y alta (~30 seg)
-
-**En pantalla:**
-
-### Criterios de exacerbación grave
-- Obstrucción nasal que **impide la penetración del spray**
-- Síntomas que **impiden dormir o trabajar**
-- Sin control con tratamiento previo
-(Fuente: UpToDate Fuente 1, p8; ARIA 2010 Table 5)
-
-### Tratamiento
-
-| Fármaco | Posología |
-|---------|-----------|
-| **Prednisona 30 mg** | 1 comp/24h × **5 días** (no prolongar) |
-| ± Oximetazolina 0,05% spray | 1 pulv/fosa/12h × **3-5 días máx** (puente) |
-| **Mometasona furoato** spray | 2 pulv/fosa/24h — **iniciar desde URG, mantener** |
-| Bilastina 20 mg | 1 comp/24h en ayunas con agua |
-| Suero salino nasal | Lavados 2-3 veces/día |
-| ± Olopatadina colirio | 1 gota/ojo/12h si ojos afectos |
-
-### Recomendaciones al paciente
-- Ventanas cerradas · Gafas de sol · Ducharse al llegar · No tender ropa fuera
-- **Cita AP en 2-4 semanas** · Preguntar siempre por asma: *"¿nota pitos o le cuesta respirar?"*
-
-> **Nota ponente:** "La exacerbación grave es cuando el paciente no puede ni usar el spray porque tiene la nariz completamente obstruida, o cuando los síntomas le impiden dormir o trabajar. Aquí sí usamos prednisona oral — pauta corta de 5 días, sin descenso — y podemos dar oximetazolina como puente de 3-5 días máximo para descongestionar y que el INCS pueda entrar. Lo más importante: iniciar el INCS desde urgencias y mantenerlo de forma crónica. Y no os olvidéis: cita en AP a las 2-4 semanas y preguntad siempre por asma."
-
----
-
 ## Diapositiva 7 — Tratamiento y recomendaciones al alta: 2 escenarios (1 min) — DIAPOSITIVA PRÁCTICA
 
 **En pantalla:**
@@ -266,7 +237,36 @@ Revisión en 2-4 semanas → si sin control: añadir **AH intranasal** (azelasti
 - Sin control tras 1-2 meses con INCS + otro agente → **derivar Alergología**
 - **Embarazada**: preferir mometasona o fluticasona como INCS · AH oral: cetirizina o loratadina · Evitar pseudoefedrina (1er trim.) y fenilefrina
 
-> **Nota ponente:** "Estas son las recetas que os podéis llevar al bolsillo. Dos escenarios en consulta: leve — mometasona como base, AH oral solo si rechaza el spray. Moderada-grave — mometasona, enseñar la técnica del spray, y si no controla en 2-4 semanas, subir a combinación fija intranasal. La exacerbación grave ya la hemos visto en la slide anterior. Un matiz ARIA 2024-2025: sugieren fluticasona furoato como INCS preferido por metaanálisis en red, pero con certeza baja. Mometasona es igualmente eficaz y más coste-efectiva — la mantenemos como referencia en AP. Y para el colirio: a demanda si síntomas oculares prominentes, no como base del tratamiento. Recordad que el INCS se mantiene durante toda la temporada — no es como un antibiótico de 7 días. Para gramíneas en Madrid, eso son unos 3 meses de abril a julio. Si es una exposición puntual, como visitar a alguien con gato, basta con empezar 2 días antes y mantener 2 días después. La combinación intranasal se mantiene mientras haya síntomas moderados-graves. Si mejora, podemos bajar a INCS solo. En perenne — ácaros por ejemplo — el tratamiento es crónico a la mínima dosis eficaz."
+> **Nota ponente:** "Estas son las recetas que os podéis llevar al bolsillo. Dos escenarios en consulta: leve — mometasona como base, AH oral solo si rechaza el spray. Moderada-grave — mometasona, enseñar la técnica del spray, y si no controla en 2-4 semanas, subir a combinación fija intranasal. La exacerbación grave la veremos en la siguiente slide. Un matiz ARIA 2024-2025: sugieren fluticasona furoato como INCS preferido por metaanálisis en red, pero con certeza baja. Mometasona es igualmente eficaz y más coste-efectiva — la mantenemos como referencia en AP. Y para el colirio: a demanda si síntomas oculares prominentes, no como base del tratamiento. Recordad que el INCS se mantiene durante toda la temporada — no es como un antibiótico de 7 días. Para gramíneas en Madrid, eso son unos 3 meses de abril a julio. Si es una exposición puntual, como visitar a alguien con gato, basta con empezar 2 días antes y mantener 2 días después. La combinación intranasal se mantiene mientras haya síntomas moderados-graves. Si mejora, podemos bajar a INCS solo. En perenne — ácaros por ejemplo — el tratamiento es crónico a la mínima dosis eficaz."
+
+---
+
+## Diapositiva 7C — Exacerbación grave: tratamiento y alta (~30 seg)
+
+**En pantalla:**
+
+### Criterios de exacerbación grave
+- Obstrucción nasal que **impide la penetración del spray**
+- Síntomas que **impiden dormir o trabajar**
+- Sin control con tratamiento previo
+(Fuente: UpToDate Fuente 1, p8; ARIA 2010 Table 5)
+
+### Tratamiento
+
+| Fármaco | Posología |
+|---------|-----------|
+| **Prednisona 30 mg** | 1 comp/24h × **5 días** (no prolongar) |
+| ± Oximetazolina 0,05% spray | 1 pulv/fosa/12h × **3-5 días máx** (puente) |
+| **Mometasona furoato** spray | 2 pulv/fosa/24h — **iniciar desde URG, mantener** |
+| Bilastina 20 mg | 1 comp/24h en ayunas con agua |
+| Suero salino nasal | Lavados 2-3 veces/día |
+| ± Olopatadina colirio | 1 gota/ojo/12h si ojos afectos |
+
+### Recomendaciones al paciente
+- Ventanas cerradas · Gafas de sol · Ducharse al llegar · No tender ropa fuera
+- **Cita AP en 2-4 semanas** · Preguntar siempre por asma: *"¿nota pitos o le cuesta respirar?"*
+
+> **Nota ponente:** "La exacerbación grave es cuando el paciente no puede ni usar el spray porque tiene la nariz completamente obstruida, o cuando los síntomas le impiden dormir o trabajar. Aquí sí usamos prednisona oral — pauta corta de 5 días, sin descenso — y podemos dar oximetazolina como puente de 3-5 días máximo para descongestionar y que el INCS pueda entrar. Lo más importante: iniciar el INCS desde urgencias y mantenerlo de forma crónica. Y no os olvidéis: cita en AP a las 2-4 semanas y preguntad siempre por asma."
 
 ---
 
