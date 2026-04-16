@@ -176,7 +176,8 @@
         ↙              ↘
 
 [LEVE 2B]              [MOD-GRAVE 1A]
-Mometasona 50 mcg       INCS dosis plena
+Mometasona furoato 50 mcg       INCS dosis plena
+(o fluti. furoato 27,5 / prop. 50 mcg)
 2 pulv/fosa/24h          ± colirio AH a demanda si ojos
 Estacional: ≥1 sem antes
 Alt: bilastina 20 mg,        ↓
@@ -208,7 +209,7 @@ No→Tratar como               Alt: olopat+momet
 
 | Fármaco | Posología |
 |---------|-----------|
-| **Mometasona furoato** spray 50 mcg | **2 pulv/fosa nasal/24h** (mañana) |
+| **Mometasona furoato** spray 50 mcg (alt: **fluticasona furoato** 27,5 mcg o **propionato** 50 mcg, 2 pulv/fosa/24h) | **2 pulv/fosa nasal/24h** (mañana) |
 | Suero salino nasal | Lavados **10-15 min ANTES** del spray |
 | ± Olopatadina colirio 0,1% | 1 gota/ojo/12h a demanda si síntomas oculares prominentes |
 
@@ -222,7 +223,7 @@ Revisión en 2-4 semanas → si sin control: añadir **AH intranasal** (azelasti
 
 | Fármaco | Posología |
 |---------|-----------|
-| **Mometasona furoato** spray nasal 50 mcg | **2 pulv/fosa nasal/24h** (mañana) |
+| **Mometasona furoato** spray nasal 50 mcg (alt: **fluticasona furoato** 27,5 mcg o **propionato** 50 mcg, 2 pulv/fosa/24h) | **2 pulv/fosa nasal/24h** (mañana) |
 | Suero salino nasal | Lavados 10-15 min ANTES del spray |
 | ± Bilastina 20 mg | 1 comp/24h en ayunas con agua (si componente ocular; no tomar con zumo) |
 | ± Olopatadina colirio 0,1% | 1 gota/ojo/12h a demanda si síntomas oculares prominentes pese a AH oral |
@@ -257,7 +258,7 @@ Revisión en 2-4 semanas → si sin control: añadir **AH intranasal** (azelasti
 |---------|-----------|
 | **Prednisona 30 mg** | 1 comp/24h × **5 días** (no prolongar) |
 | ± Oximetazolina 0,05% spray | 1 pulv/fosa/12h × **3-5 días máx** (puente) |
-| **Mometasona furoato** spray | 2 pulv/fosa/24h — **iniciar desde URG, mantener** |
+| **Mometasona furoato** spray 50 mcg (alt: **fluticasona furoato** 27,5 mcg o **propionato** 50 mcg, 2 pulv/fosa/24h) | 2 pulv/fosa/24h — **iniciar desde URG, mantener** |
 | Bilastina 20 mg | 1 comp/24h en ayunas con agua |
 | Suero salino nasal | Lavados 2-3 veces/día |
 | ± Olopatadina colirio | 1 gota/ojo/12h si ojos afectos |
