@@ -188,7 +188,7 @@ Sí→Mantener/reducir         Azel+fluti 1p/f/12h
 No→Tratar como               Alt: olopat+momet
    moderada-grave→               2p/f/12h
                               ↓
-                         Sin control 1-2 meses
+                         Mal control 1-2 meses
                               ↓
                          Derivar Alergología
                          IT · sinusitis · asma
@@ -235,7 +235,7 @@ Revisión en 2-4 semanas → si mal control: añadir **AH intranasal** (azelasti
 - Revisar en 2-4 semanas → si mal control: combinación fija intranasal:
   - **Azelastina + fluticasona** 1 pulv/fosa nasal/12h
   - Alt: olopatadina + mometasona 2 pulv/fosa nasal/12h
-- Sin control tras 1-2 meses con INCS + otro agente → **derivar Alergología**
+- Mal control tras 1-2 meses con INCS + otro agente → **derivar Alergología**
 - **Embarazada**: preferir mometasona o fluticasona como INCS · AH oral: cetirizina o loratadina · Evitar pseudoefedrina (1er trim.) y fenilefrina
 
 > **Nota ponente:** "Estas son las recetas que os podéis llevar al bolsillo. Dos escenarios en consulta: leve — mometasona como base, AH oral solo si rechaza el spray. Moderada-grave — mometasona, enseñar la técnica del spray, y si no controla en 2-4 semanas, subir a combinación fija intranasal. La exacerbación grave la veremos en la siguiente slide. Un matiz ARIA 2024-2025: sugieren fluticasona furoato como INCS preferido por metaanálisis en red, pero con certeza baja. Mometasona es igualmente eficaz y más coste-efectiva — la mantenemos como referencia en AP. Y para el colirio: a demanda si síntomas oculares prominentes, no como base del tratamiento. Recordad que el INCS se mantiene durante toda la temporada — no es como un antibiótico de 7 días. Para gramíneas en Madrid, eso son unos 3 meses de abril a julio. Si es una exposición puntual, como visitar a alguien con gato, basta con empezar 2 días antes y mantener 2 días después. La combinación intranasal se mantiene mientras haya síntomas moderados-graves. Si mejora, podemos bajar a INCS solo. En perenne — ácaros por ejemplo — el tratamiento es crónico a la mínima dosis eficaz."
@@ -249,7 +249,7 @@ Revisión en 2-4 semanas → si mal control: añadir **AH intranasal** (azelasti
 ### Criterios de exacerbación grave
 - Obstrucción nasal que **impide la penetración del spray**
 - Síntomas que **impiden dormir o trabajar**
-- Sin control con tratamiento previo
+- Mal control con tratamiento previo
 (Fuente: UpToDate Fuente 1, p8; ARIA 2010 Table 5)
 
 ### Tratamiento
@@ -276,7 +276,7 @@ Revisión en 2-4 semanas → si mal control: añadir **AH intranasal** (azelasti
 **En pantalla:**
 
 ### Derivar a Alergología si:
-- Sin control tras 1-2 meses de INCS + otro agente
+- Mal control tras 1-2 meses de INCS + otro agente
 - Sospecha de asma · Sinusitis/otitis recurrente
 - Candidato a **inmunoterapia** (único tto. que modifica la historia natural)
 
