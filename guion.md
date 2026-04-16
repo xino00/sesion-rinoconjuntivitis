@@ -42,7 +42,7 @@
 | Mes | Ene | Feb | Mar | Abr | May | Jun |
 |-----|-----|-----|-----|-----|-----|-----|
 | **Cupresáceas** (ciprés) | ██ | ██ | ██ | · | · | · |
-| **Plátano de sombra** | · | · | ██ | ██ | · | · |
+| **Plátano de paseo** | · | · | ██ | ██ | · | · |
 | **Gramíneas** | · | · | · | ██ | ██ | ██ |
 | **Olivo** | · | · | · | · | ██ | ██ |
 | **Plantago** | · | · | · | ██ | ██ | ██ |
@@ -61,7 +61,7 @@
 
 | Nasales | Oculares | Otros |
 |---------|----------|-------|
-| Rinorrea acuosa bilateral | **Prurito ocular** (el más específico) | Goteo posnasal |
+| Rinorrea acuosa bilateral | **Prurito ocular** (el más específico) | Goteo postnasal |
 | Estornudos en salvas | Lagrimeo | Prurito palatino/ótico |
 | Prurito nasal | Hiperemia conjuntival | Tos, irritabilidad |
 | Obstrucción nasal | Edema palpebral | Fatiga, alt. del sueño |
@@ -71,13 +71,13 @@
 - Ojeras alérgicas ("allergic shiners") · "Saludo alérgico" · Líneas de Dennie-Morgan
 - Empedrado faríngeo posterior ("cobblestoning")
 
-### Banderas rojas — NO es "solo alergia"
-- Rinorrea **unilateral** o purulenta → sinusitis, cuerpo extraño, neoplasia
-- Epistaxis persistente
-- Obstrucción nasal unilateral fija → poliposis, masa
-- Anosmia progresiva
+### Datos de alarma — NO es "solo alergia"
+- Rinorrea **unilateral/purulenta** → sinusitis bacteriana · cuerpo extraño (niños)
+- Epistaxis persistente → granulomatosis con poliangeítis · neoplasia nasosinusal
+- Obstrucción unilateral fija → poliposis nasal (descartar tumor)
+- Anosmia progresiva → poliposis nasosinusal bilateral
 
-> **Nota ponente:** "El prurito — nasal, ocular, palatino — es el síntoma más específico de la etiología alérgica. Si un paciente no tiene prurito, plantéate si realmente es alérgico. Recordad también preguntar por goteo posnasal, tos y alteración del sueño: el sueño es una de las consecuencias más infravaloradas. Y ojo con las banderas rojas: una rinorrea unilateral purulenta o una obstrucción fija unilateral obliga a descartar otros diagnósticos."
+> **Nota ponente:** "El prurito — nasal, ocular, palatino — es el síntoma más específico de la etiología alérgica. Si un paciente no tiene prurito, plantéate si realmente es alérgico. Recordad también preguntar por goteo postnasal, tos y alteración del sueño: el sueño es una de las consecuencias más infravaloradas. Y ojo con los datos de alarma: una rinorrea unilateral purulenta o una obstrucción fija unilateral obliga a descartar otros diagnósticos."
 
 ---
 
@@ -197,7 +197,7 @@ No→Tratar como               Alt: olopat+momet
 [👶 Niños ≥2a: mometasona, fluticasona furoato · <2a: AH → ORL]
 ```
 
-> **Nota ponente:** "Este algoritmo resume la lógica de UpToDate. Arriba, lo común para todos: lavados nasales 10-15 minutos antes del spray. Luego clasificamos por ARIA. A la izquierda, leve: el INCS ya es preferido — mometasona 2 pulverizaciones por fosa al día — el antihistamínico oral es solo alternativa si rechaza el spray. Si no controla en 2-4 semanas, pasa al escalón de moderada-grave. A la derecha, INCS a dosis plena, y si en 2-4 semanas no hay control, añadimos antihistamínico intranasal — la combinación de azelastina más fluticasona es la preferida. Si en 1-2 meses sigue sin control, derivamos a Alergología."
+> **Nota ponente:** "Este algoritmo resume la lógica de UpToDate. Arriba, lo común para todos: lavados nasales 10-15 minutos antes del spray. Luego clasificamos por ARIA. A la izquierda, leve: el INCS ya es preferido — mometasona 2 pulverizaciones por fosa al día — el antihistamínico oral es solo alternativa si rechaza el spray. Si no controla en 2-4 semanas, pasa al escalón de moderada-grave. A la derecha, INCS a dosis plena, y si en 2-4 semanas no hay control, añadimos antihistamínico intranasal — la combinación de azelastina más fluticasona es la preferida. Si en 1-2 meses sigue mal control, derivamos a Alergología."
 
 ---
 
@@ -217,7 +217,7 @@ No→Tratar como               Alt: olopat+momet
 
 > Si rechaza spray nasal (alternativa): bilastina 20 mg/24h en ayunas con agua · cetirizina 10 mg/24h · loratadina 10 mg/24h. Los AH orales NO alivian la congestión nasal.
 
-Revisión en 2-4 semanas → si sin control: añadir **AH intranasal** (azelastina) o cambiar a combinación fija INAH+INCS
+Revisión en 2-4 semanas → si mal control: añadir **AH intranasal** (azelastina) o cambiar a combinación fija INAH+INCS
 
 ### B) Moderada-grave / Persistente
 
@@ -232,7 +232,7 @@ Revisión en 2-4 semanas → si sin control: añadir **AH intranasal** (azelasti
 
 - **Técnica del spray**: cabeza recta, dirigir boquilla LEJOS del tabique, NO inspirar fuerte
 - Estacional: iniciar **≥1 semana antes** de la temporada
-- Revisar en 2-4 semanas → si sin control: combinación fija intranasal:
+- Revisar en 2-4 semanas → si mal control: combinación fija intranasal:
   - **Azelastina + fluticasona** 1 pulv/fosa nasal/12h
   - Alt: olopatadina + mometasona 2 pulv/fosa nasal/12h
 - Sin control tras 1-2 meses con INCS + otro agente → **derivar Alergología**
